@@ -1,0 +1,903 @@
+id,nom,categorie,calories_100g,proteines_g,glucides_g,lipides_g,fibres_g,source_dataset
+2160,Acai Bowl (1 Serving),Meal/Fruit,350.00,5.00,60.00,12.00,10.00,kaggle_daily_food_nutrition
+2494,Acai Bowl (Small),Meal/Fruit,280.00,5.00,48.00,9.00,8.00,kaggle_daily_food_nutrition
+2625,Ailes De Poulet X4 Bk,Meal/Fast-Food,351.00,33.00,4.00,23.00,0.00,kaggle_daily_food_nutrition
+2228,Aioli (Garlic 1 Tbsp),Condiment,95.00,0.10,0.50,10.50,0.00,kaggle_daily_food_nutrition
+2243,Aji Amarillo Paste (1 Tsp),Condiment,5.00,0.10,1.00,0.00,0.50,kaggle_daily_food_nutrition
+2247,Alfajores (1 Cookie),Dessert,180.00,2.00,22.00,10.00,1.00,kaggle_daily_food_nutrition
+1975,Almond Milk (Unsweetened 1 Cup),Beverage/Dairy-Alt,30.00,1.00,1.00,2.50,1.00,kaggle_daily_food_nutrition
+1826,Almonds (1 Oz),Nut,164.00,6.00,6.00,14.00,3.50,kaggle_daily_food_nutrition
+2310,Amaretti Cookie (2 Cookies),Dessert,90.00,2.00,12.00,4.00,1.00,kaggle_daily_food_nutrition
+1998,Angel Hair Pasta (1 Cup),Grain,200.00,7.00,42.00,1.00,2.00,kaggle_daily_food_nutrition
+2246,Angostura Bitters (Dash),Condiment,5.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2419,Animal Crackers (10 Pcs),Snack,130.00,2.00,21.00,4.50,0.50,kaggle_daily_food_nutrition
+2055,Ants On A Log (4 Pcs),Snack,180.00,6.00,12.00,12.00,3.00,kaggle_daily_food_nutrition
+2270,Aperol Spritz (1 Drink),Beverage,180.00,0.00,20.00,0.00,0.00,kaggle_daily_food_nutrition
+1819,Apple,Fruit,95.00,0.50,25.00,0.30,4.40,kaggle_daily_food_nutrition
+2071,Apple Cider (1 Cup),Beverage,117.00,0.10,29.00,0.30,0.50,kaggle_daily_food_nutrition
+1942,Apple Pie (1 Slice),Dessert,410.00,3.00,58.00,19.00,3.00,kaggle_daily_food_nutrition
+2666,Apple Pie Mcdonald'S,Dessert/Fast-Food,260.00,3.00,35.00,13.00,2.00,kaggle_daily_food_nutrition
+2332,Arancini (1 Large Ball),Snack/Processed,250.00,9.00,30.00,10.00,3.00,kaggle_daily_food_nutrition
+2103,Artichoke (1 Medium Steamed),Vegetable,60.00,4.20,13.40,0.20,6.90,kaggle_daily_food_nutrition
+2213,Arugula (2 Cups),Vegetable,10.00,1.00,0.80,0.20,0.40,kaggle_daily_food_nutrition
+1885,Asparagus (1 Cup Steamed),Vegetable,40.00,4.30,7.40,0.40,3.60,kaggle_daily_food_nutrition
+2205,Asparagus (6 Spears Roasted),Vegetable,40.00,4.00,4.00,2.00,3.00,kaggle_daily_food_nutrition
+1951,Avocado (1/2 Fruit),Fruit,160.00,2.00,8.50,14.70,6.70,kaggle_daily_food_nutrition
+2401,Avocado (Half),Fruit,160.00,2.00,8.50,14.70,6.70,kaggle_daily_food_nutrition
+1845,Avocado Toast (1 Slice),Meal/Vegetarian,260.00,7.00,28.00,15.00,10.00,kaggle_daily_food_nutrition
+2358,Baba Ganoush (1/4 Cup),Meal/Vegetable,100.00,2.00,8.00,7.00,4.00,kaggle_daily_food_nutrition
+2403,Bacon (1 Strip Cooked),Protein/Meat,43.00,3.00,0.10,3.30,0.00,kaggle_daily_food_nutrition
+1879,Bacon (2 Slices Cooked),Protein/Meat,86.00,6.00,0.20,6.80,0.00,kaggle_daily_food_nutrition
+2615,Bacon Cheeseburger Bk (1 Burger),Meal/Fast-Food,314.00,17.00,31.00,13.00,2.00,kaggle_daily_food_nutrition
+1837,Bagel (Plain),Grain,270.00,11.00,55.00,1.50,2.00,kaggle_daily_food_nutrition
+2479,Bagel (Sesame 1 Medium),Grain,280.00,11.00,55.00,1.50,2.50,kaggle_daily_food_nutrition
+2260,Baguette (Slice),Grain,70.00,2.50,14.00,0.50,0.60,kaggle_daily_food_nutrition
+2595,Baked Beans (1/2 Cup Heinz),Legume,130.00,7.00,25.00,0.50,6.00,kaggle_daily_food_nutrition
+1842,Baked Potato (Medium),Vegetable,160.00,4.30,36.00,0.20,3.80,kaggle_daily_food_nutrition
+2094,Baklava (1 Piece),Dessert,280.00,3.00,30.00,18.00,2.00,kaggle_daily_food_nutrition
+2217,Balsamic Glaze (1 Tbsp),Condiment,40.00,0.00,9.00,0.00,0.00,kaggle_daily_food_nutrition
+2292,Balsamic Glaze (1 Tsp),Condiment,13.00,0.00,3.00,0.00,0.00,kaggle_daily_food_nutrition
+1915,Balsamic Vinaigrette (2 Tbsp),Condiment,90.00,0.00,3.00,9.00,0.00,kaggle_daily_food_nutrition
+1817,Banana,Fruit,105.00,1.30,27.00,0.40,3.10,kaggle_daily_food_nutrition
+2509,Banana Bread (1 Slice),Grain,190.00,3.00,30.00,7.00,1.50,kaggle_daily_food_nutrition
+2550,Banh Mi (Vietnamese Sandwich),Meal/Processed,450.00,20.00,55.00,17.00,4.00,kaggle_daily_food_nutrition
+2573,Banh Xeo (Vietnamese Crepe 1),Meal/Processed,350.00,15.00,28.00,20.00,4.00,kaggle_daily_food_nutrition
+2263,Basil (2 Tbsp Fresh),Condiment,1.00,0.10,0.10,0.00,0.10,kaggle_daily_food_nutrition
+2345,Basil (Fresh Garnish),Condiment,1.00,0.10,0.00,0.00,0.10,kaggle_daily_food_nutrition
+2630,Bbq Beef Wrap Bk,Meal/Fast-Food,532.00,24.00,48.00,27.00,3.00,kaggle_daily_food_nutrition
+2109,Bbq Sauce (2 Tbsp),Condiment,60.00,0.50,15.00,0.00,0.50,kaggle_daily_food_nutrition
+2172,Bean Sprouts (1/4 Cup Garnish),Vegetable,8.00,0.80,1.50,0.10,0.40,kaggle_daily_food_nutrition
+2453,Beans On Toast (1 Slice),Meal/Legume,220.00,10.00,40.00,2.00,8.00,kaggle_daily_food_nutrition
+2072,Beef Burrito (Large),Meal/Processed,650.00,30.00,70.00,28.00,10.00,kaggle_daily_food_nutrition
+1922,Beef Jerky (1 Oz),Snack/Processed,116.00,9.40,3.10,7.20,0.50,kaggle_daily_food_nutrition
+2171,Beef Pho (1 Large Bowl),Meal/Soup,450.00,30.00,55.00,12.00,4.00,kaggle_daily_food_nutrition
+1841,Beef Steak (6Oz Sirloin),Protein/Meat,270.00,42.00,0.00,10.00,0.00,kaggle_daily_food_nutrition
+2025,Beef Stroganoff (1.5 Cups),Meal/Pasta,550.00,30.00,40.00,28.00,4.00,kaggle_daily_food_nutrition
+1892,Beef Tacos (2 Hard Shell),Meal/Meat,380.00,18.00,28.00,22.00,5.00,kaggle_daily_food_nutrition
+2201,Beef Wellington (1 Slice),Meal/Meat,600.00,30.00,35.00,38.00,4.00,kaggle_daily_food_nutrition
+2044,Beer (12 Oz Light),Beverage,103.00,0.90,5.80,0.00,0.00,kaggle_daily_food_nutrition
+2215,Beets (1/2 Cup Roasted),Vegetable,30.00,0.80,6.80,0.10,1.40,kaggle_daily_food_nutrition
+1868,Bell Pepper (1 Medium Red),Vegetable,31.00,1.20,6.00,0.30,2.10,kaggle_daily_food_nutrition
+2022,Bell Peppers & Onions (Sautéed),Vegetable,60.00,1.50,10.00,2.00,3.00,kaggle_daily_food_nutrition
+2313,Berry Coulis (1 Tbsp),Condiment,20.00,0.00,5.00,0.00,0.50,kaggle_daily_food_nutrition
+2552,Bibimbap (1 Bowl),Meal/Grain,550.00,28.00,75.00,15.00,6.00,kaggle_daily_food_nutrition
+2673,Big Breakfast Mcdonald'S,Meal/Fast-Food,740.00,28.00,58.00,43.00,4.00,kaggle_daily_food_nutrition
+2619,Big Fish Burger Bk (1 Burger),Meal/Fast-Food,453.00,17.00,43.00,23.00,2.00,kaggle_daily_food_nutrition
+2611,Big King Bk (1 Burger),Meal/Fast-Food,525.00,25.00,45.00,27.00,3.00,kaggle_daily_food_nutrition
+2612,Big King Xxl Bk (1 Burger),Meal/Fast-Food,994.00,54.00,54.00,55.00,4.00,kaggle_daily_food_nutrition
+2640,Big Mac Mcdonald'S (1 Burger),Meal/Fast-Food,508.00,25.00,43.00,26.00,3.00,kaggle_daily_food_nutrition
+2497,Bircher Muesli (1 Cup),Meal/Grain,280.00,9.00,42.00,8.00,5.00,kaggle_daily_food_nutrition
+2184,Biryani (Chicken 1.5 Cups),Meal/Meat,520.00,28.00,60.00,18.00,5.00,kaggle_daily_food_nutrition
+2285,Biscotti (1 Cookie),Dessert,110.00,2.00,18.00,4.00,1.00,kaggle_daily_food_nutrition
+1950,Biscuits And Gravy (1 Serving),Meal/Processed,480.00,10.00,45.00,28.00,2.00,kaggle_daily_food_nutrition
+2144,Bison Burger (1 Patty),Protein/Meat,150.00,22.00,0.00,7.00,0.00,kaggle_daily_food_nutrition
+2624,Bk Chicken Fries X6,Meal/Fast-Food,191.00,13.00,11.00,11.00,1.00,kaggle_daily_food_nutrition
+2588,Black Bean Burger (1 Patty),Protein/Vegetarian,150.00,8.00,18.00,5.00,5.00,kaggle_daily_food_nutrition
+1853,Black Beans (1/2 Cup),Legume,114.00,7.60,20.40,0.50,7.50,kaggle_daily_food_nutrition
+2029,Black Pepper (1 Tsp),Condiment,6.00,0.20,1.50,0.10,0.60,kaggle_daily_food_nutrition
+2326,Black Pepper (1/2 Tsp),Condiment,3.00,0.10,0.70,0.00,0.30,kaggle_daily_food_nutrition
+2267,Black Pepper (1/4 Tsp),Condiment,1.00,0.00,0.20,0.00,0.10,kaggle_daily_food_nutrition
+2078,Blackberries (1 Cup),Fruit,62.00,2.00,13.80,0.70,7.60,kaggle_daily_food_nutrition
+2515,Blondie (1 Square),Dessert,220.00,3.00,30.00,10.00,1.00,kaggle_daily_food_nutrition
+2448,Blt Sandwich,Meal/Processed,420.00,18.00,35.00,22.00,3.00,kaggle_daily_food_nutrition
+2158,Blue Cheese (1 Oz),Dairy,100.00,6.00,0.70,8.00,0.00,kaggle_daily_food_nutrition
+1965,Blue Cheese Dressing (2 Tbsp),Condiment,150.00,1.00,2.00,16.00,0.00,kaggle_daily_food_nutrition
+1825,Blueberries (1/2 Cup),Fruit,42.00,0.50,11.00,0.20,1.80,kaggle_daily_food_nutrition
+2218,Bobotie (1 Serving),Meal/Meat,450.00,25.00,30.00,25.00,5.00,kaggle_daily_food_nutrition
+2498,Boiled Egg On Toast (1 Egg),Meal/Protein,210.00,10.00,22.00,9.00,1.50,kaggle_daily_food_nutrition
+2124,Bok Choy (1 Cup Steamed),Vegetable,10.00,1.50,2.00,0.10,1.00,kaggle_daily_food_nutrition
+2519,Bread Pudding (1 Serving),Dessert,330.00,9.00,48.00,12.00,1.50,kaggle_daily_food_nutrition
+2102,Bread Roll (Hoagie),Grain,200.00,6.00,38.00,2.00,2.00,kaggle_daily_food_nutrition
+2335,Breadcrumbs (Coating),Grain,25.00,0.50,4.00,0.50,0.50,kaggle_daily_food_nutrition
+1963,Breadstick (1 Large),Grain,160.00,4.00,28.00,3.00,1.00,kaggle_daily_food_nutrition
+2502,Breakfast Burrito (1 Medium),Meal/Processed,480.00,22.00,48.00,22.00,4.00,kaggle_daily_food_nutrition
+2037,Brie Cheese (1 Oz),Dairy,95.00,6.00,0.10,7.90,0.00,kaggle_daily_food_nutrition
+1867,Brown Rice (1 Cup Cooked),Grain,215.00,5.00,45.00,1.80,3.50,kaggle_daily_food_nutrition
+2411,Brown Sugar (1 Tsp),Condiment,17.00,0.00,4.50,0.00,0.00,kaggle_daily_food_nutrition
+2514,Brownie (1 Square),Dessert,240.00,3.00,32.00,12.00,2.00,kaggle_daily_food_nutrition
+2636,Brownie Bk,Dessert/Fast-Food,345.00,5.00,38.00,18.00,2.00,kaggle_daily_food_nutrition
+2291,Bruschetta (2 Pcs),Snack/Appetizer,180.00,4.00,25.00,7.00,3.00,kaggle_daily_food_nutrition
+2223,Bubble Tea (16 Oz Milk Tea),Beverage,320.00,2.00,70.00,4.00,1.00,kaggle_daily_food_nutrition
+2544,Buffalo Chicken Wrap,Meal/Processed,520.00,28.00,45.00,24.00,4.00,kaggle_daily_food_nutrition
+2554,Bulgogi (3Oz Beef Marinated),Meal/Meat,280.00,22.00,8.00,18.00,1.00,kaggle_daily_food_nutrition
+2375,Bulgur (1 Tbsp Shell),Grain,15.00,0.50,3.40,0.00,0.80,kaggle_daily_food_nutrition
+2367,Bulgur (1/4 Cup In Tabouli),Grain,76.00,2.70,16.80,0.20,4.10,kaggle_daily_food_nutrition
+1906,Bun (Hamburger),Grain,140.00,4.00,26.00,2.00,1.00,kaggle_daily_food_nutrition
+1850,Burger (Cheeseburger),Meal/Processed,550.00,30.00,40.00,30.00,3.00,kaggle_daily_food_nutrition
+2620,Burger Cheese Bacon Xxl Bk (1),Meal/Fast-Food,970.00,59.00,52.00,51.00,3.00,kaggle_daily_food_nutrition
+2622,Burger Sans Gluten Bk (1),Meal/Fast-Food,494.00,21.00,43.00,22.00,3.00,kaggle_daily_food_nutrition
+2621,Burger Texas Double Bk (1),Meal/Fast-Food,447.00,23.00,40.00,21.00,3.00,kaggle_daily_food_nutrition
+1919,Butter (1 Tbsp),Condiment/Dairy,100.00,0.10,0.00,11.00,0.00,kaggle_daily_food_nutrition
+2409,Butter (1 Tsp),Condiment,34.00,0.00,0.00,3.80,0.00,kaggle_daily_food_nutrition
+2042,Cabbage Slaw (Side),Vegetable,60.00,1.00,8.00,3.00,2.00,kaggle_daily_food_nutrition
+2324,Cacio E Pepe (1.5 Cups),Meal/Pasta,500.00,18.00,65.00,19.00,4.00,kaggle_daily_food_nutrition
+2629,Caesar Chicken Wrap Bk,Meal/Fast-Food,300.00,23.00,31.00,9.00,3.00,kaggle_daily_food_nutrition
+1877,Caesar Salad (With Chicken),Meal/Protein,470.00,30.00,15.00,30.00,3.00,kaggle_daily_food_nutrition
+2105,Calamari (Fried 3Oz),Meal/Seafood,150.00,13.00,8.00,7.00,1.00,kaggle_daily_food_nutrition
+2336,Campari & Soda (1 Drink),Beverage,85.00,0.00,10.00,0.00,0.00,kaggle_daily_food_nutrition
+2301,Campari (1 Oz),Beverage,80.00,0.00,10.00,0.00,0.00,kaggle_daily_food_nutrition
+2016,Canadian Bacon (2 Slices),Protein/Meat,80.00,12.00,1.00,3.00,0.00,kaggle_daily_food_nutrition
+2309,Candied Fruit (1 Tbsp),Fruit,30.00,0.00,8.00,0.00,0.50,kaggle_daily_food_nutrition
+2294,Cannellini Beans (1/2 Cup In Soup),Legume,105.00,7.00,20.00,0.50,6.00,kaggle_daily_food_nutrition
+2282,Cannoli (1 Medium),Dessert,240.00,5.00,25.00,13.00,1.00,kaggle_daily_food_nutrition
+2121,Capers (1 Tbsp),Condiment,2.00,0.20,0.40,0.10,0.30,kaggle_daily_food_nutrition
+2340,Capers (Garnish),Condiment,2.00,0.20,0.40,0.10,0.30,kaggle_daily_food_nutrition
+2318,Caponata (1/2 Cup),Meal/Vegetable,180.00,2.00,15.00,14.00,5.00,kaggle_daily_food_nutrition
+1914,Caprese Salad,Meal/Vegetable,240.00,10.00,8.00,18.00,2.00,kaggle_daily_food_nutrition
+2549,Caprese Sandwich (Ciabatta),Meal/Vegetarian,380.00,14.00,40.00,18.00,3.00,kaggle_daily_food_nutrition
+2208,Caramel Sauce (1 Tbsp),Condiment,60.00,0.00,13.00,1.00,0.00,kaggle_daily_food_nutrition
+2264,Carbonara (1.5 Cups),Meal/Pasta,650.00,25.00,60.00,35.00,4.00,kaggle_daily_food_nutrition
+2392,Cardamom (In Coffee),Condiment,1.00,0.00,0.20,0.00,0.10,kaggle_daily_food_nutrition
+2277,Carrot (1/4 Minced In Sauce),Vegetable,10.00,0.20,2.40,0.10,0.70,kaggle_daily_food_nutrition
+2513,Carrot Cake (1 Slice No Frosting),Dessert,280.00,4.00,40.00,12.00,2.00,kaggle_daily_food_nutrition
+1828,Carrot Sticks (1 Cup),Vegetable,52.00,1.20,12.30,0.30,3.60,kaggle_daily_food_nutrition
+1967,Cashews (1 Oz Roasted),Nut,163.00,4.30,9.20,13.10,0.90,kaggle_daily_food_nutrition
+2533,Cauliflower Cheese (1/2 Cup),Meal/Vegetable,180.00,8.00,10.00,12.00,2.50,kaggle_daily_food_nutrition
+2157,Celery (1 Stalk),Vegetable,6.00,0.30,1.20,0.10,0.60,kaggle_daily_food_nutrition
+2278,Celery (1/4 Stalk Minced),Vegetable,2.00,0.10,0.40,0.00,0.20,kaggle_daily_food_nutrition
+1857,Celery Sticks (1 Cup),Vegetable,14.00,0.60,3.00,0.20,1.40,kaggle_daily_food_nutrition
+2212,Century Egg (1 Egg),Protein,100.00,7.00,1.00,7.00,0.00,kaggle_daily_food_nutrition
+2484,Cereal (Bran Flakes 3/4 Cup),Grain,100.00,3.00,24.00,0.50,5.00,kaggle_daily_food_nutrition
+2482,Cereal (Cheerios 1 Cup),Grain,100.00,3.00,20.00,2.00,3.00,kaggle_daily_food_nutrition
+1832,Cereal (Frosted Flakes 1 Cup),Grain/Processed,130.00,2.00,31.00,0.00,1.00,kaggle_daily_food_nutrition
+2483,Cereal (Special K 1 Cup),Grain,115.00,6.00,22.00,0.50,0.50,kaggle_daily_food_nutrition
+2481,Cereal (Weetabix 2 Biscuits),Grain,130.00,4.00,26.00,0.80,3.80,kaggle_daily_food_nutrition
+2006,Cereal Bar (Fruit),Snack/Processed,140.00,2.00,30.00,3.00,1.00,kaggle_daily_food_nutrition
+2236,Ceviche (1 Cup Fish),Meal/Fish,180.00,25.00,15.00,2.00,3.00,kaggle_daily_food_nutrition
+2050,Chai Latte (12 Oz),Beverage,190.00,7.00,32.00,4.00,1.00,kaggle_daily_food_nutrition
+1876,Cheddar Cheese (1 Oz),Dairy,115.00,7.00,1.00,9.50,0.00,kaggle_daily_food_nutrition
+2426,Cheddar Crackers (1 Oz Goldfish),Snack,140.00,3.00,19.00,6.00,1.00,kaggle_daily_food_nutrition
+2446,Cheese And Tomato Sandwich,Meal/Processed,320.00,14.00,32.00,14.00,3.00,kaggle_daily_food_nutrition
+2079,Cheese Danish,Dessert,340.00,7.00,38.00,18.00,2.00,kaggle_daily_food_nutrition
+2471,Cheese Puff (1 Oz Cheetos),Snack/Processed,160.00,2.00,13.00,11.00,0.00,kaggle_daily_food_nutrition
+2085,Cheese Whiz (2 Tbsp),Condiment/Processed,90.00,4.00,3.00,7.00,0.00,kaggle_daily_food_nutrition
+2613,Cheeseburger Bk (1 Burger),Meal/Fast-Food,289.00,15.00,30.00,12.00,2.00,kaggle_daily_food_nutrition
+2643,Cheeseburger Mcdonald'S (1),Meal/Fast-Food,300.00,15.00,33.00,12.00,1.00,kaggle_daily_food_nutrition
+1930,Cheesecake (1 Slice),Dessert,320.00,5.00,28.00,21.00,1.00,kaggle_daily_food_nutrition
+2088,Cheesy Grits (1 Cup),Meal/Grain,210.00,6.00,34.00,6.00,2.00,kaggle_daily_food_nutrition
+1916,Cherries (1 Cup),Fruit,77.00,1.60,19.00,0.50,2.50,kaggle_daily_food_nutrition
+2440,Chia Seeds (1 Tbsp),Nut,60.00,2.00,5.00,3.80,4.10,kaggle_daily_food_nutrition
+2060,Chicken & Rice Soup (1 Can),Meal/Processed,130.00,7.00,18.00,3.00,2.00,kaggle_daily_food_nutrition
+1962,Chicken Alfredo (1.5 Cups),Meal/Pasta,680.00,35.00,45.00,38.00,4.00,kaggle_daily_food_nutrition
+1882,Chicken Breast (4Oz Roasted),Protein/Meat,185.00,35.00,0.00,4.00,0.00,kaggle_daily_food_nutrition
+2616,Chicken Burger Bk (1 Burger),Meal/Fast-Food,393.00,11.00,40.00,20.00,2.00,kaggle_daily_food_nutrition
+2580,Chicken Caesar Wrap,Meal/Processed,480.00,28.00,42.00,22.00,4.00,kaggle_daily_food_nutrition
+2581,Chicken Fajitas (1 Portion),Meal/Meat,450.00,30.00,40.00,18.00,5.00,kaggle_daily_food_nutrition
+2021,Chicken Kebab (2 Skewers),Meal/Meat,280.00,30.00,8.00,14.00,3.00,kaggle_daily_food_nutrition
+2122,Chicken Liver (2 Oz Cooked),Protein/Meat,91.00,13.60,0.60,3.60,0.00,kaggle_daily_food_nutrition
+2657,Chicken Mcbites Mcdonald'S (Portion),Snack/Fast-Food,380.00,20.00,32.00,19.00,2.00,kaggle_daily_food_nutrition
+2108,Chicken Mcnuggets (6 Pcs),Meal/Processed,270.00,15.00,16.00,16.00,1.00,kaggle_daily_food_nutrition
+2656,Chicken Mcnuggets X20 Mcdonald'S,Meal/Fast-Food,890.00,49.00,53.00,53.00,3.00,kaggle_daily_food_nutrition
+2654,Chicken Mcnuggets X6 Mcdonald'S,Meal/Fast-Food,270.00,15.00,16.00,16.00,1.00,kaggle_daily_food_nutrition
+2655,Chicken Mcnuggets X9 Mcdonald'S,Meal/Fast-Food,400.00,22.00,24.00,24.00,1.50,kaggle_daily_food_nutrition
+2257,Chicken Milanesa (1 Serving),Meal/Meat,450.00,35.00,30.00,22.00,3.00,kaggle_daily_food_nutrition
+1855,Chicken Noodle Soup (1 Can),Meal/Processed,150.00,7.00,18.00,5.00,2.00,kaggle_daily_food_nutrition
+2460,Chicken Nuggets (5 Pieces),Meal/Processed,230.00,13.00,14.00,13.00,1.00,kaggle_daily_food_nutrition
+2623,Chicken Nuggets X9 Bk,Meal/Fast-Food,370.00,18.00,32.00,18.00,1.00,kaggle_daily_food_nutrition
+2100,Chicken Parm Sandwich,Meal/Processed,650.00,40.00,55.00,30.00,6.00,kaggle_daily_food_nutrition
+1997,Chicken Piccata (1 Serving),Meal/Meat,350.00,30.00,10.00,20.00,1.00,kaggle_daily_food_nutrition
+2586,Chicken Quesadilla (1 Half),Meal/Processed,350.00,22.00,28.00,18.00,2.00,kaggle_daily_food_nutrition
+2080,Chicken Salad Sandwich,Meal/Processed,420.00,20.00,35.00,20.00,3.00,kaggle_daily_food_nutrition
+2617,Chicken Tendercrisp Bk (1 Burger),Meal/Fast-Food,655.00,28.00,61.00,32.00,3.00,kaggle_daily_food_nutrition
+2151,Chicken Thigh (1 Roasted),Protein/Meat,210.00,24.00,0.00,13.00,0.00,kaggle_daily_food_nutrition
+1986,Chicken Tikka Masala (1.5 Cups),Meal/Meat,480.00,30.00,20.00,30.00,5.00,kaggle_daily_food_nutrition
+1847,Chicken Wrap (With Tortilla),Meal/Processed,410.00,25.00,38.00,17.00,5.00,kaggle_daily_food_nutrition
+2631,Chicken Wrap Bk,Meal/Fast-Food,533.00,19.00,46.00,30.00,3.00,kaggle_daily_food_nutrition
+2129,Chickpeas (1/2 Cup Canned),Legume,135.00,7.00,22.00,2.00,6.00,kaggle_daily_food_nutrition
+2627,Chili Cheese Bites X6 Bk,Snack/Fast-Food,320.00,10.00,34.00,18.00,2.00,kaggle_daily_food_nutrition
+2582,Chili Con Carne (1 Cup),Meal/Meat,320.00,22.00,28.00,12.00,8.00,kaggle_daily_food_nutrition
+2054,Chili Powder (1 Tsp),Condiment,8.00,0.30,1.40,0.40,0.90,kaggle_daily_food_nutrition
+2252,Chimichurri (1 Tbsp),Condiment,45.00,0.10,0.50,4.50,0.20,kaggle_daily_food_nutrition
+2526,Chips (Oven Baked 1 Portion Uk),Vegetable/Processed,200.00,4.00,36.00,5.00,3.50,kaggle_daily_food_nutrition
+2099,Chocolate (Hershey'S Bar 1 Segment),Dessert,25.00,0.30,3.00,1.50,0.20,kaggle_daily_food_nutrition
+1860,Chocolate Chip Cookie (1 Large),Dessert,220.00,2.50,30.00,11.00,1.50,kaggle_daily_food_nutrition
+1990,Chocolate Croissant,Dessert,350.00,6.00,40.00,19.00,3.00,kaggle_daily_food_nutrition
+2069,Chocolate Donut (1 Medium),Dessert,300.00,4.00,35.00,17.00,2.00,kaggle_daily_food_nutrition
+1902,Chocolate Milk (1 Cup),Beverage/Dairy,200.00,8.00,26.00,8.00,1.00,kaggle_daily_food_nutrition
+2030,Chocolate Pudding (1/2 Cup),Dessert,150.00,2.00,28.00,4.00,2.00,kaggle_daily_food_nutrition
+2233,Chocolate Sauce (1 Tbsp Dipping),Condiment,50.00,0.50,10.00,1.50,1.00,kaggle_daily_food_nutrition
+2259,Choripan (1 Sandwich),Meal/Processed,550.00,20.00,40.00,35.00,3.00,kaggle_daily_food_nutrition
+2226,Chorizo (1 Oz In Paella),Protein/Meat,130.00,6.00,1.00,11.00,0.00,kaggle_daily_food_nutrition
+2567,Chow Mein (1 Cup),Meal/Pasta,290.00,12.00,35.00,12.00,3.00,kaggle_daily_food_nutrition
+2232,Churros (2 Sticks),Dessert,240.00,3.00,30.00,12.00,1.50,kaggle_daily_food_nutrition
+2220,Chutney (Mango 1 Tbsp),Condiment,45.00,0.10,11.00,0.10,0.50,kaggle_daily_food_nutrition
+2238,Cilantro (2 Tbsp Garnish),Condiment,1.00,0.10,0.00,0.00,0.10,kaggle_daily_food_nutrition
+2508,Cinnamon Roll (1 Large),Dessert,420.00,7.00,56.00,18.00,2.00,kaggle_daily_food_nutrition
+2234,Cinnamon Sugar (1 Tsp),Condiment,20.00,0.00,5.00,0.00,0.00,kaggle_daily_food_nutrition
+1898,Clam Chowder (1 Cup),Meal/Seafood,200.00,10.00,18.00,9.00,1.00,kaggle_daily_food_nutrition
+2541,Clam Chowder Bread Bowl,Meal/Seafood,650.00,22.00,85.00,24.00,4.00,kaggle_daily_food_nutrition
+2063,Club Sandwich,Meal/Processed,580.00,35.00,40.00,30.00,5.00,kaggle_daily_food_nutrition
+2272,Club Soda (2 Oz),Beverage,0.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2545,Club Wrap (Chicken),Meal/Processed,490.00,28.00,42.00,22.00,4.00,kaggle_daily_food_nutrition
+2289,Coarse Salt (Garnish),Condiment,0.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+1964,Cobb Salad,Meal/Protein,510.00,30.00,12.00,38.00,7.00,kaggle_daily_food_nutrition
+2638,Coca-Cola Géant Bk,Beverage,315.00,0.00,80.00,0.00,0.00,kaggle_daily_food_nutrition
+2637,Coca-Cola Medium Bk,Beverage,168.00,0.00,42.00,0.00,0.00,kaggle_daily_food_nutrition
+2678,Coca-Cola Medium Mcdonald'S,Beverage,180.00,0.00,46.00,0.00,0.00,kaggle_daily_food_nutrition
+2679,Coca-Cola Zéro Medium Mcdonald'S,Beverage,2.00,0.00,0.50,0.00,0.00,kaggle_daily_food_nutrition
+2538,Cock-A-Leekie Soup (1 Cup),Meal/Meat,120.00,9.00,12.00,3.00,2.00,kaggle_daily_food_nutrition
+2165,Cocktail Sauce (2 Tbsp),Condiment,30.00,0.50,7.00,0.00,0.50,kaggle_daily_food_nutrition
+2095,Coconut (Shredded 1/4 Cup),Fruit,110.00,1.00,4.50,10.50,2.00,kaggle_daily_food_nutrition
+2249,Coconut (Shredded Garnish),Fruit,10.00,0.10,0.50,1.00,0.20,kaggle_daily_food_nutrition
+2162,Coconut Flakes (1 Tbsp Topping),Fruit,35.00,0.30,1.50,3.30,0.70,kaggle_daily_food_nutrition
+2149,Coconut Milk (1/4 Cup Canned),Condiment,111.00,1.10,2.90,11.60,0.50,kaggle_daily_food_nutrition
+2010,Coconut Shrimp (5 Pcs),Meal/Seafood,320.00,10.00,25.00,20.00,3.00,kaggle_daily_food_nutrition
+1933,Coconut Water (1 Cup),Beverage,46.00,1.70,8.90,0.50,2.60,kaggle_daily_food_nutrition
+1858,Cod (4Oz Baked),Protein/Fish,95.00,20.00,0.00,0.80,0.00,kaggle_daily_food_nutrition
+1816,Coffee (Black),Beverage,5.00,0.30,0.00,0.10,0.00,kaggle_daily_food_nutrition
+1909,Coffee (With Cream/Sugar),Beverage,50.00,0.50,5.00,3.00,0.00,kaggle_daily_food_nutrition
+2357,Coffee Beans (3 Garnish),Snack,2.00,0.10,0.30,0.00,0.10,kaggle_daily_food_nutrition
+2354,Coffee Liqueur (1 Oz),Beverage,100.00,0.00,15.00,0.00,0.00,kaggle_daily_food_nutrition
+2591,Coleslaw (1/2 Cup),Meal/Vegetable,120.00,1.00,9.00,9.00,2.00,kaggle_daily_food_nutrition
+2032,Collard Greens (1 Cup Cooked),Vegetable,60.00,5.00,10.00,1.00,7.00,kaggle_daily_food_nutrition
+2089,Collard Greens (With Ham Hock),Vegetable,180.00,10.00,15.00,9.00,8.00,kaggle_daily_food_nutrition
+2209,Congee (1 Cup Plain),Meal/Grain,130.00,2.50,28.00,1.00,1.00,kaggle_daily_food_nutrition
+2378,Coriander (1 Tsp),Condiment,5.00,0.10,1.00,0.20,0.50,kaggle_daily_food_nutrition
+1873,Corn (1 Cup),Vegetable,132.00,4.70,30.00,1.80,3.60,kaggle_daily_food_nutrition
+2462,Corn Dog (1 Stick),Meal/Processed,250.00,7.00,27.00,12.00,1.00,kaggle_daily_food_nutrition
+1952,Corn Flakes (1 Cup),Grain,100.00,2.00,24.00,0.00,1.00,kaggle_daily_food_nutrition
+2239,Corn Nuts (1 Oz),Snack/Processed,130.00,2.00,23.00,4.00,2.00,kaggle_daily_food_nutrition
+2594,Corn On The Cob (1 Ear Buttered),Vegetable,175.00,5.00,32.00,6.00,3.50,kaggle_daily_food_nutrition
+1926,Corn On The Cob (1 Large),Vegetable,125.00,5.00,29.00,1.50,3.00,kaggle_daily_food_nutrition
+2074,Corn Tortilla (1 Medium),Grain,52.00,1.40,11.20,0.70,1.50,kaggle_daily_food_nutrition
+2417,Corn Tortilla Chips (1 Oz),Snack,140.00,2.00,19.00,7.00,2.00,kaggle_daily_food_nutrition
+2027,Cottage Cheese (1 Cup Low Fat),Dairy,160.00,28.00,6.00,2.50,0.00,kaggle_daily_food_nutrition
+1849,Cottage Cheese (1/2 Cup),Dairy,90.00,12.00,5.00,3.00,0.00,kaggle_daily_food_nutrition
+1972,Crab Cakes (2 Medium),Meal/Seafood,340.00,20.00,18.00,20.00,1.00,kaggle_daily_food_nutrition
+1840,Crackers (5 Whole Wheat),Grain/Processed,90.00,2.00,14.00,3.00,2.00,kaggle_daily_food_nutrition
+1996,Cranberry Juice (1 Cup),Beverage,130.00,0.00,33.00,0.00,0.00,kaggle_daily_food_nutrition
+2607,Crayfish Tails (3Oz),Protein/Seafood,70.00,14.00,0.50,1.00,0.00,kaggle_daily_food_nutrition
+2413,Cream (1 Tbsp Heavy),Dairy,52.00,0.40,0.40,5.50,0.00,kaggle_daily_food_nutrition
+1838,Cream Cheese (2 Tbsp),Dairy,100.00,2.00,2.00,10.00,0.00,kaggle_daily_food_nutrition
+1954,Creamed Spinach (1/2 Cup),Vegetable,190.00,5.00,8.00,16.00,3.00,kaggle_daily_food_nutrition
+2178,Crepe (1 Plain),Grain,90.00,3.50,14.00,2.00,0.50,kaggle_daily_food_nutrition
+2618,Crispy Chicken Bk (1 Burger),Meal/Fast-Food,516.00,16.00,42.00,31.00,2.00,kaggle_daily_food_nutrition
+2404,Croissant (Plain),Grain,231.00,5.00,26.00,12.00,1.50,kaggle_daily_food_nutrition
+2505,Croissant Sandwich (Ham Cheese),Meal/Processed,410.00,18.00,32.00,23.00,1.50,kaggle_daily_food_nutrition
+2626,Croustilles De Poulet X6 Bk,Meal/Fast-Food,646.00,39.00,41.00,35.00,2.00,kaggle_daily_food_nutrition
+1939,Croutons (1/4 Cup),Grain,50.00,1.50,7.00,2.00,0.50,kaggle_daily_food_nutrition
+2230,Croutons (Garlic 1/4 Cup),Grain,50.00,1.50,7.00,2.00,0.50,kaggle_daily_food_nutrition
+2477,Crumpet (1 Toasted),Grain,100.00,3.50,20.00,0.80,1.00,kaggle_daily_food_nutrition
+2280,Crushed Tomatoes (1/2 Cup Sauce),Vegetable,20.00,1.00,4.00,0.00,1.50,kaggle_daily_food_nutrition
+2635,Crème Glacée Vanille Bk (Sandy),Dessert/Fast-Food,182.00,4.00,31.00,5.00,0.00,kaggle_daily_food_nutrition
+2385,Cucumber (1/4 Cup Side),Vegetable,8.00,0.30,1.80,0.00,0.20,kaggle_daily_food_nutrition
+1988,Cucumber Salad (1/2 Cup),Vegetable,40.00,1.00,5.00,2.00,1.00,kaggle_daily_food_nutrition
+1959,Cucumber Slices (1 Cup),Vegetable,16.00,0.70,3.60,0.10,0.50,kaggle_daily_food_nutrition
+2539,Cullen Skink (1 Cup Scottish),Meal/Fish,220.00,16.00,15.00,10.00,1.00,kaggle_daily_food_nutrition
+2377,Cumin (1 Tsp),Condiment,8.00,0.30,1.50,0.50,0.40,kaggle_daily_food_nutrition
+2455,Cup Noodles (1 Pot),Meal/Processed,300.00,7.00,40.00,13.00,2.00,kaggle_daily_food_nutrition
+2141,Cupcake (Vanilla 1 Medium),Dessert,240.00,2.00,35.00,11.00,1.00,kaggle_daily_food_nutrition
+2222,Custard (1/4 Cup),Condiment,80.00,3.00,10.00,3.00,0.00,kaggle_daily_food_nutrition
+2521,Custard (Ready Made 1/2 Cup),Dessert,130.00,4.00,20.00,4.00,0.00,kaggle_daily_food_nutrition
+2423,Custard Cream Biscuit (2 Biscuits),Dessert,160.00,1.50,23.00,7.00,0.50,kaggle_daily_food_nutrition
+2665,Cône Vanille Mcdonald'S,Dessert/Fast-Food,170.00,4.00,28.00,4.50,0.00,kaggle_daily_food_nutrition
+2045,Danish (Cheese 1 Medium),Dessert,340.00,7.00,38.00,18.00,2.00,kaggle_daily_food_nutrition
+2507,Danish Pastry (1 Cheese),Dessert,340.00,7.00,38.00,18.00,2.00,kaggle_daily_food_nutrition
+2159,Dark Chocolate (1 Oz 70%),Dessert,170.00,2.20,13.00,12.00,3.00,kaggle_daily_food_nutrition
+2127,Dates (2 Medium Medjool),Fruit,133.00,0.80,36.00,0.10,3.20,kaggle_daily_food_nutrition
+1969,Diet Soda (1 Can),Beverage,0.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2422,Digestive Biscuit (2 Biscuits),Grain,141.00,2.10,21.50,5.60,1.40,kaggle_daily_food_nutrition
+2167,Dim Sum (Siu Mai 3 Pcs),Meal/Processed,180.00,12.00,10.00,10.00,2.00,kaggle_daily_food_nutrition
+2472,Doritos (1 Oz Nacho Cheese),Snack/Processed,140.00,2.00,18.00,7.00,1.00,kaggle_daily_food_nutrition
+2641,Double Big Mac Mcdonald'S (1),Meal/Fast-Food,720.00,38.00,43.00,40.00,3.00,kaggle_daily_food_nutrition
+2614,Double Cheeseburger Bk (1 Burger),Meal/Fast-Food,417.00,24.00,32.00,21.00,2.00,kaggle_daily_food_nutrition
+2644,Double Cheeseburger Mcdonald'S (1),Meal/Fast-Food,445.00,25.00,34.00,22.00,1.00,kaggle_daily_food_nutrition
+2651,Double Quarterpounder Mcdonald'S (1),Meal/Fast-Food,740.00,45.00,42.00,40.00,3.00,kaggle_daily_food_nutrition
+2431,Dried Apricots (5 Halves),Fruit,78.00,1.10,20.60,0.10,2.20,kaggle_daily_food_nutrition
+2432,Dried Cranberries (1/4 Cup),Fruit,130.00,0.00,34.00,0.50,2.00,kaggle_daily_food_nutrition
+2435,Dried Mango (1 Oz),Fruit,90.00,0.50,22.00,0.20,1.00,kaggle_daily_food_nutrition
+2138,Duck (3Oz Roasted),Protein/Meat,285.00,16.00,0.00,24.00,0.00,kaggle_daily_food_nutrition
+2248,Dulce De Leche (1 Tbsp Filling),Condiment,65.00,1.00,12.00,1.50,0.00,kaggle_daily_food_nutrition
+2182,Edamame (In Pod 1 Cup),Legume,120.00,11.00,9.00,5.00,5.00,kaggle_daily_food_nutrition
+2559,Edamame Salted (1 Cup In Pod),Legume,120.00,11.00,9.00,5.00,5.00,kaggle_daily_food_nutrition
+1992,Egg Drop Soup (1 Cup),Meal/Vegetable,65.00,5.00,6.00,2.00,0.50,kaggle_daily_food_nutrition
+2026,Egg Noodles (1 Cup Cooked),Grain,220.00,8.00,40.00,3.00,2.00,kaggle_daily_food_nutrition
+2449,Egg Salad Sandwich,Meal/Processed,360.00,16.00,28.00,20.00,2.00,kaggle_daily_food_nutrition
+2245,Egg White (In Drink),Condiment,17.00,3.60,0.20,0.00,0.00,kaggle_daily_food_nutrition
+2268,Egg Yolk (1 Large In Sauce),Protein,55.00,2.70,0.60,4.50,0.00,kaggle_daily_food_nutrition
+1968,Eggo Waffle (2 Waffles),Grain/Processed,180.00,4.00,30.00,5.00,1.00,kaggle_daily_food_nutrition
+2319,Eggplant (1/2 Cup In Caponata),Vegetable,40.00,0.50,6.00,2.00,2.00,kaggle_daily_food_nutrition
+2017,Eggs Benedict (1 Serving),Meal/Protein,600.00,25.00,30.00,40.00,3.00,kaggle_daily_food_nutrition
+2256,Empanada (Beef 1 Medium),Meal/Processed,290.00,10.00,28.00,16.00,3.00,kaggle_daily_food_nutrition
+2478,English Muffin (Plain 1),Grain,130.00,4.50,25.00,1.00,2.00,kaggle_daily_food_nutrition
+1896,English Muffin (Whole Wheat),Grain,134.00,6.00,26.00,1.00,4.40,kaggle_daily_food_nutrition
+2355,Espresso (1 Oz In Drink),Beverage,3.00,0.30,0.00,0.10,0.00,kaggle_daily_food_nutrition
+2058,Espresso (Double Shot),Beverage,5.00,0.50,0.00,0.10,0.00,kaggle_daily_food_nutrition
+2286,Espresso (For Dipping),Beverage,2.00,0.20,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2352,Espresso Martini (1 Drink),Beverage,280.00,0.50,25.00,0.00,0.00,kaggle_daily_food_nutrition
+2523,Eton Mess (1 Serving),Dessert,320.00,4.00,42.00,15.00,1.00,kaggle_daily_food_nutrition
+2360,Falafel (3 Pieces),Meal/Vegetarian,180.00,6.00,18.00,9.00,4.00,kaggle_daily_food_nutrition
+2397,Fattoush Salad (1.5 Cups),Meal/Vegetarian,250.00,5.00,25.00,15.00,6.00,kaggle_daily_food_nutrition
+1960,Feta Cheese (1 Oz),Dairy,75.00,4.00,1.20,6.10,0.00,kaggle_daily_food_nutrition
+2420,Fig Newtons (2 Cookies),Snack,110.00,1.00,22.00,2.00,1.00,kaggle_daily_food_nutrition
+1923,Figs (2 Medium),Fruit,74.00,0.60,19.20,0.30,2.90,kaggle_daily_food_nutrition
+2646,Filet-O-Fish Mcdonald'S (1),Meal/Fast-Food,380.00,15.00,38.00,18.00,2.00,kaggle_daily_food_nutrition
+2327,Fiorentina Steak (3Oz Portion),Protein/Meat,230.00,24.00,0.00,15.00,0.00,kaggle_daily_food_nutrition
+2464,Fish And Chips (Portion),Meal/Processed,820.00,30.00,90.00,38.00,6.00,kaggle_daily_food_nutrition
+2587,Fish Burrito (1 Large),Meal/Processed,580.00,28.00,65.00,22.00,8.00,kaggle_daily_food_nutrition
+2459,Fish Fingers (4 Fingers),Protein/Processed,220.00,14.00,20.00,8.00,1.00,kaggle_daily_food_nutrition
+2198,Fish Sauce (1 Tsp),Condiment,5.00,0.40,0.50,0.00,0.00,kaggle_daily_food_nutrition
+2041,Fish Tacos (2 Tacos),Meal/Fish,420.00,25.00,40.00,18.00,6.00,kaggle_daily_food_nutrition
+2207,Flan (1 Slice),Dessert,220.00,6.00,35.00,7.00,0.00,kaggle_daily_food_nutrition
+2517,Flapjack (1 Bar Oat),Snack/Processed,320.00,5.00,42.00,15.00,3.00,kaggle_daily_food_nutrition
+2439,Flaxseeds (1 Tbsp),Nut,55.00,1.90,3.00,4.30,2.80,kaggle_daily_food_nutrition
+2287,Focaccia (1 Square),Grain,250.00,8.00,40.00,7.00,2.00,kaggle_daily_food_nutrition
+2077,French Bread (2 Slices),Grain,180.00,6.00,36.00,1.00,2.00,kaggle_daily_food_nutrition
+2241,French Fries (As Side),Vegetable/Processed,200.00,2.00,25.00,10.00,2.00,kaggle_daily_food_nutrition
+1851,French Fries (Medium),Vegetable/Processed,340.00,4.00,44.00,17.00,4.00,kaggle_daily_food_nutrition
+2395,French Fries (Side),Vegetable/Processed,340.00,4.00,44.00,17.00,4.00,kaggle_daily_food_nutrition
+1938,French Onion Soup (1 Cup),Meal,150.00,6.00,15.00,7.00,2.00,kaggle_daily_food_nutrition
+2487,French Toast (1 Slice),Grain,150.00,6.00,16.00,7.00,0.50,kaggle_daily_food_nutrition
+2262,Fresh Mozzarella (1 Oz),Dairy,72.00,5.00,0.80,5.00,0.00,kaggle_daily_food_nutrition
+2405,Fried Egg (1 Large),Protein,90.00,6.30,0.40,7.00,0.00,kaggle_daily_food_nutrition
+2090,Fried Okra (1 Cup),Vegetable,220.00,4.00,25.00,12.00,5.00,kaggle_daily_food_nutrition
+2398,Fried Pita (1/2 Pita In Salad),Grain,80.00,2.00,12.00,3.00,1.00,kaggle_daily_food_nutrition
+2570,Fried Rice (1 Cup Takeaway),Meal/Grain,340.00,9.00,55.00,10.00,2.00,kaggle_daily_food_nutrition
+2566,Fried Wontons (4 Pcs),Snack/Processed,180.00,5.00,18.00,10.00,1.00,kaggle_daily_food_nutrition
+2634,Frites Grandes Bk,Snack/Fast-Food,440.00,5.00,58.00,21.00,4.00,kaggle_daily_food_nutrition
+2660,Frites Grandes Mcdonald'S,Snack/Fast-Food,430.00,6.00,57.00,20.00,5.00,kaggle_daily_food_nutrition
+2633,Frites Moyennes Bk,Snack/Fast-Food,320.00,4.00,43.00,15.00,3.00,kaggle_daily_food_nutrition
+2659,Frites Moyennes Mcdonald'S,Snack/Fast-Food,320.00,4.00,42.00,15.00,4.00,kaggle_daily_food_nutrition
+2632,Frites Petites Bk,Snack/Fast-Food,230.00,3.00,31.00,11.00,2.00,kaggle_daily_food_nutrition
+2658,Frites Petites Mcdonald'S,Snack/Fast-Food,230.00,2.00,30.00,11.00,3.00,kaggle_daily_food_nutrition
+2142,Frosting (Vanilla 2 Tbsp),Condiment,140.00,0.00,22.00,6.00,0.00,kaggle_daily_food_nutrition
+2458,Frozen Pizza (1 Slice),Meal/Processed,280.00,11.00,32.00,12.00,2.00,kaggle_daily_food_nutrition
+2436,Fruit And Nut Mix (1 Oz),Snack,130.00,3.00,15.00,7.00,2.00,kaggle_daily_food_nutrition
+1956,Fruit Cocktail (Canned 1 Cup),Fruit,110.00,1.00,28.00,0.00,2.00,kaggle_daily_food_nutrition
+2524,Fruit Crumble (1 Portion Apple),Dessert,290.00,4.00,48.00,10.00,4.00,kaggle_daily_food_nutrition
+2430,Fruit Roll Up (1 Roll),Snack/Processed,50.00,0.00,12.00,0.50,0.00,kaggle_daily_food_nutrition
+2499,Full English Breakfast,Meal/Meat,850.00,45.00,55.00,50.00,5.00,kaggle_daily_food_nutrition
+2330,Garlic (1 Clove In Beans),Vegetable,4.00,0.20,0.90,0.00,0.10,kaggle_daily_food_nutrition
+2000,Garlic (1 Clove),Vegetable,4.00,0.20,0.90,0.00,0.10,kaggle_daily_food_nutrition
+2348,Garlic (1/2 Clove In Pesto),Vegetable,2.00,0.10,0.50,0.00,0.00,kaggle_daily_food_nutrition
+1901,Garlic Bread (1 Slice),Grain,150.00,4.00,18.00,7.00,1.00,kaggle_daily_food_nutrition
+2364,Garlic Sauce (1 Tbsp),Condiment,90.00,0.10,1.00,10.00,0.00,kaggle_daily_food_nutrition
+2394,Garlic Sauce (Toum 1 Tbsp),Condiment,90.00,0.10,1.00,10.00,0.00,kaggle_daily_food_nutrition
+2229,Gazpacho (1 Cup),Meal/Soup,90.00,2.00,12.00,4.00,3.00,kaggle_daily_food_nutrition
+2322,Gelato (Pistachio 1/2 Cup),Dessert,220.00,5.00,24.00,12.00,2.00,kaggle_daily_food_nutrition
+2569,General Tso Chicken (1 Cup),Meal/Processed,430.00,26.00,40.00,18.00,2.00,kaggle_daily_food_nutrition
+1943,Gin & Tonic (1 Drink),Beverage,170.00,0.00,13.00,0.00,0.00,kaggle_daily_food_nutrition
+2300,Gin (1 Oz),Beverage,70.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2003,Ginger Ale (1 Can),Beverage,124.00,0.00,32.00,0.00,0.00,kaggle_daily_food_nutrition
+2047,Gnocchi (1 Cup),Meal/Pasta,210.00,4.50,45.00,1.50,3.00,kaggle_daily_food_nutrition
+2342,Gnocchi Alla Sorrentina (1.5 Cups),Meal/Pasta,450.00,15.00,60.00,18.00,6.00,kaggle_daily_food_nutrition
+2214,Goat Cheese (1 Oz),Dairy,103.00,6.10,0.10,8.50,0.00,kaggle_daily_food_nutrition
+2195,Gochugaru (1 Tsp),Condiment,10.00,0.30,1.80,0.30,0.50,kaggle_daily_food_nutrition
+2196,Gochujang (1 Tbsp),Condiment,30.00,0.50,6.00,0.00,0.50,kaggle_daily_food_nutrition
+2298,Gorgonzola Cheese (1 Oz),Dairy,100.00,6.00,0.70,8.00,0.00,kaggle_daily_food_nutrition
+2097,Graham Cracker (1 Large Rectangle),Grain/Processed,60.00,1.00,11.00,1.50,0.50,kaggle_daily_food_nutrition
+2418,Graham Crackers (2 Sheets),Grain,120.00,2.00,22.00,3.00,1.00,kaggle_daily_food_nutrition
+2649,Grand Mcextreme Mcdonald'S (1),Meal/Fast-Food,640.00,35.00,46.00,35.00,3.00,kaggle_daily_food_nutrition
+2161,Granola (1/4 Cup Topping),Grain,120.00,3.00,15.00,6.00,3.00,kaggle_daily_food_nutrition
+2406,Granola Bar (1 Bar),Snack/Processed,195.00,4.00,29.00,8.00,2.00,kaggle_daily_food_nutrition
+2039,Grapefruit (1/2 Medium),Fruit,52.00,1.10,13.20,0.20,2.00,kaggle_daily_food_nutrition
+1848,Grapes (1 Cup),Fruit,104.00,1.10,27.00,0.20,1.40,kaggle_daily_food_nutrition
+2527,Gravy (1/4 Cup Beef),Condiment,30.00,1.50,4.50,0.50,0.00,kaggle_daily_food_nutrition
+1823,Greek Yogurt (Plain 1 Cup),Dairy,150.00,25.00,8.00,3.00,0.00,kaggle_daily_food_nutrition
+1859,Green Beans (1 Cup),Vegetable,31.00,1.80,7.00,0.20,2.70,kaggle_daily_food_nutrition
+2350,Green Beans (1/2 Cup W/ Pasta),Vegetable,15.00,0.90,3.50,0.10,1.30,kaggle_daily_food_nutrition
+2150,Green Curry Paste (1 Tbsp),Condiment,30.00,0.50,2.00,2.50,1.00,kaggle_daily_food_nutrition
+2199,Green Onion (1 Tbsp Garnish),Vegetable,3.00,0.20,0.70,0.00,0.20,kaggle_daily_food_nutrition
+2574,Green Papaya Salad (1 Cup),Meal/Vegetarian,90.00,2.00,15.00,3.00,3.00,kaggle_daily_food_nutrition
+1941,Green Peas (1/2 Cup),Legume,62.00,4.10,11.10,0.20,4.40,kaggle_daily_food_nutrition
+2305,Gremolata (1 Tbsp),Condiment,15.00,0.50,1.00,1.00,0.50,kaggle_daily_food_nutrition
+1891,Grilled Cheese Sandwich,Meal/Processed,390.00,15.00,32.00,22.00,3.00,kaggle_daily_food_nutrition
+2450,Grilled Cheese Sandwich (Basic),Meal/Processed,390.00,15.00,32.00,22.00,3.00,kaggle_daily_food_nutrition
+1818,Grilled Chicken Salad,Meal/Protein,350.00,30.00,10.00,20.00,5.00,kaggle_daily_food_nutrition
+1918,Grits (1 Cup Cooked),Grain,150.00,3.00,32.00,1.00,2.00,kaggle_daily_food_nutrition
+2275,Ground Beef (2 Oz In Sauce),Protein/Meat,140.00,11.00,0.00,10.00,0.00,kaggle_daily_food_nutrition
+2374,Ground Lamb (1 Oz Filling),Protein/Meat,80.00,5.50,0.00,6.00,0.00,kaggle_daily_food_nutrition
+1894,Guacamole (1/4 Cup),Vegetable/Condiment,90.00,1.00,4.00,8.00,3.00,kaggle_daily_food_nutrition
+2265,Guanciale (1 Oz),Protein/Meat,170.00,3.00,0.00,18.00,0.00,kaggle_daily_food_nutrition
+2062,Guava,Fruit,68.00,2.60,14.30,0.90,5.40,kaggle_daily_food_nutrition
+2125,Gummy Bears (10 Pcs),Snack/Dessert,100.00,2.00,22.00,0.00,0.00,kaggle_daily_food_nutrition
+2556,Gyoza Pan Fried (5 Pieces),Meal/Processed,250.00,10.00,28.00,12.00,2.00,kaggle_daily_food_nutrition
+2092,Gyro (1 Sandwich),Meal/Meat,600.00,25.00,55.00,30.00,5.00,kaggle_daily_food_nutrition
+1945,Halibut (4Oz Baked),Protein/Fish,125.00,24.00,0.00,2.50,0.00,kaggle_daily_food_nutrition
+2057,Ham & Cheese Croissant,Meal/Processed,400.00,15.00,35.00,22.00,2.00,kaggle_daily_food_nutrition
+2033,Ham (3Oz Deli Sliced),Protein/Meat,110.00,16.00,2.00,4.00,0.00,kaggle_daily_food_nutrition
+2447,Ham And Cheese Sandwich,Meal/Processed,380.00,22.00,30.00,18.00,2.00,kaggle_daily_food_nutrition
+2642,Hamburger Mcdonald'S (1),Meal/Fast-Food,250.00,13.00,31.00,8.00,1.00,kaggle_daily_food_nutrition
+2676,Happy Meal Burger Mcdonald'S (+ Frites Petites),Meal/Fast-Food,480.00,15.00,61.00,19.00,4.00,kaggle_daily_food_nutrition
+2675,Happy Meal Nuggets Mcdonald'S (6 Pcs + Frites Petites),Meal/Fast-Food,500.00,17.00,56.00,27.00,4.00,kaggle_daily_food_nutrition
+1846,Hard-Boiled Egg (1 Large),Protein,78.00,6.30,0.60,5.30,0.00,kaggle_daily_food_nutrition
+2503,Hash Brown Patty (1 Mcdonalds),Meal/Processed,150.00,1.00,15.00,9.00,1.50,kaggle_daily_food_nutrition
+2082,Hash Browns (1 Cup),Vegetable,330.00,3.00,38.00,19.00,3.00,kaggle_daily_food_nutrition
+2441,Hemp Seeds (1 Tbsp),Protein/Vegetarian,55.00,3.20,0.90,4.30,0.40,kaggle_daily_food_nutrition
+2425,Hobnob (2 Biscuits),Grain,180.00,3.00,25.00,8.00,2.00,kaggle_daily_food_nutrition
+2176,Hoisin Sauce (1 Tbsp),Condiment,35.00,0.30,8.00,0.20,0.10,kaggle_daily_food_nutrition
+2206,Hollandaise Sauce (1 Tbsp),Condiment,55.00,0.50,0.20,6.00,0.00,kaggle_daily_food_nutrition
+2018,Hollandaise Sauce (2 Tbsp),Condiment,110.00,1.00,0.50,12.00,0.00,kaggle_daily_food_nutrition
+2110,Honey (1 Tbsp),Condiment,64.00,0.10,17.30,0.00,0.00,kaggle_daily_food_nutrition
+2163,Honey (1 Tsp Drizzle),Condiment,21.00,0.00,5.80,0.00,0.00,kaggle_daily_food_nutrition
+2235,Horchata (1 Cup),Beverage,140.00,2.00,25.00,3.00,1.00,kaggle_daily_food_nutrition
+2009,Hot Chocolate (1 Cup),Beverage,200.00,3.00,30.00,8.00,2.00,kaggle_daily_food_nutrition
+2461,Hot Dog (1 Sausage In Bun),Meal/Processed,290.00,11.00,22.00,17.00,1.00,kaggle_daily_food_nutrition
+2143,Hot Sauce (1 Tsp Tabasco),Condiment,0.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2501,Huevos Rancheros (1 Serving),Meal/Processed,420.00,18.00,45.00,18.00,8.00,kaggle_daily_food_nutrition
+2365,Hummus (1/4 Cup),Legume,130.00,5.00,10.00,8.00,4.00,kaggle_daily_food_nutrition
+1869,Hummus (2 Tbsp),Legume,70.00,2.00,4.00,5.00,2.00,kaggle_daily_food_nutrition
+2023,Hummus Wrap (Large),Meal/Vegetarian,450.00,15.00,60.00,18.00,12.00,kaggle_daily_food_nutrition
+1843,Ice Cream (1/2 Cup Vanilla),Dairy/Dessert,145.00,2.50,17.00,7.50,0.50,kaggle_daily_food_nutrition
+1899,Iced Tea (Sweetened 16Oz),Beverage,180.00,0.00,46.00,0.00,0.00,kaggle_daily_food_nutrition
+2415,Instant Coffee (1 Tsp),Beverage,4.00,0.30,0.70,0.00,0.00,kaggle_daily_food_nutrition
+2456,Instant Mashed Potato (1 Cup),Meal/Processed,190.00,4.00,28.00,7.00,2.00,kaggle_daily_food_nutrition
+2131,Italian Dressing (2 Tbsp),Condiment,70.00,0.00,3.00,7.00,0.00,kaggle_daily_food_nutrition
+2052,Italian Sausage (1 Link),Protein/Meat,200.00,12.00,3.00,16.00,0.00,kaggle_daily_food_nutrition
+2547,Italian Sub (6 Inch),Meal/Processed,480.00,24.00,45.00,22.00,3.00,kaggle_daily_food_nutrition
+2452,Jacket Potato With Beans,Meal/Vegetable,380.00,14.00,75.00,2.00,12.00,kaggle_daily_food_nutrition
+2175,Jalapeno (1 Tbsp Sliced),Vegetable,4.00,0.10,0.80,0.10,0.40,kaggle_daily_food_nutrition
+2585,Jalapeno Poppers (4 Pcs),Snack/Processed,280.00,8.00,20.00,18.00,2.00,kaggle_daily_food_nutrition
+2412,Jam (1 Tbsp Strawberry),Condiment,56.00,0.10,13.80,0.00,0.20,kaggle_daily_food_nutrition
+2553,Japchae (1 Cup Glass Noodles),Meal/Pasta,320.00,8.00,50.00,10.00,2.00,kaggle_daily_food_nutrition
+2152,Jasmine Rice (1 Cup Cooked),Grain,205.00,4.30,45.00,0.40,0.60,kaggle_daily_food_nutrition
+1904,Jelly (1 Tbsp Grape),Condiment,50.00,0.00,13.00,0.00,0.10,kaggle_daily_food_nutrition
+2520,Jelly (1/2 Cup),Dessert,70.00,2.00,17.00,0.00,0.00,kaggle_daily_food_nutrition
+2053,Jicama (1 Cup Sticks),Vegetable,46.00,0.90,10.60,0.10,5.80,kaggle_daily_food_nutrition
+2639,Jus D'Orange Bk,Beverage,100.00,1.00,24.00,0.50,0.50,kaggle_daily_food_nutrition
+2681,Jus De Pomme Mcdonald'S (Petit),Beverage,100.00,0.50,24.00,0.00,0.00,kaggle_daily_food_nutrition
+2295,Kale (1 Cup In Soup),Vegetable,33.00,2.90,6.00,0.60,2.00,kaggle_daily_food_nutrition
+2600,Kedgeree (1 Cup),Meal/Fish,320.00,20.00,38.00,9.00,2.00,kaggle_daily_food_nutrition
+2046,Kefir (Plain 1 Cup),Beverage/Dairy,104.00,10.00,10.00,2.50,0.00,kaggle_daily_food_nutrition
+2083,Ketchup (1 Packet),Condiment,10.00,0.10,2.50,0.00,0.10,kaggle_daily_food_nutrition
+1907,Ketchup (1 Tbsp),Condiment,20.00,0.20,5.00,0.10,0.20,kaggle_daily_food_nutrition
+2372,Kibbeh (1 Piece Fried),Meal/Meat,230.00,9.00,20.00,13.00,3.00,kaggle_daily_food_nutrition
+1934,Kimchi (1/2 Cup),Vegetable,22.00,1.70,4.00,0.40,2.40,kaggle_daily_food_nutrition
+2192,Kimchi Jjigae (1 Bowl),Meal/Soup,350.00,15.00,20.00,22.00,5.00,kaggle_daily_food_nutrition
+1921,Kiwifruit (1 Medium),Fruit,46.00,0.90,11.10,0.40,2.30,kaggle_daily_food_nutrition
+2024,Kombucha (1 Cup),Beverage,30.00,0.00,7.00,0.00,0.00,kaggle_daily_food_nutrition
+2200,Kombucha (16 Oz),Beverage,60.00,0.00,14.00,0.00,0.00,kaggle_daily_food_nutrition
+2551,Korean Fried Chicken (2 Pieces),Meal/Processed,380.00,22.00,28.00,20.00,1.00,kaggle_daily_food_nutrition
+2568,Kung Pao Chicken (1 Cup),Meal/Meat,380.00,26.00,18.00,22.00,3.00,kaggle_daily_food_nutrition
+2384,Labneh (2 Tbsp),Dairy,60.00,4.00,2.00,4.00,0.00,kaggle_daily_food_nutrition
+2682,Lait Mcdonald'S (Petit),Beverage,65.00,3.50,5.00,3.50,0.00,kaggle_daily_food_nutrition
+1900,Lasagna (1 Serving Meat),Meal/Pasta,350.00,20.00,30.00,17.00,4.00,kaggle_daily_food_nutrition
+2186,Lassi (Mango 1 Cup),Beverage,180.00,5.00,30.00,4.00,1.00,kaggle_daily_food_nutrition
+2473,Lay'S Chips (1 Oz Classic),Snack/Processed,160.00,2.00,15.00,10.00,1.00,kaggle_daily_food_nutrition
+2653,Le Cantal Mcdonald'S (1),Meal/Fast-Food,560.00,28.00,45.00,29.00,3.00,kaggle_daily_food_nutrition
+2535,Leek And Potato Soup (1 Cup),Meal/Vegetable,160.00,4.00,22.00,6.00,3.00,kaggle_daily_food_nutrition
+1974,Lemon Bar (1 Square),Dessert,150.00,1.50,22.00,6.00,0.50,kaggle_daily_food_nutrition
+2511,Lemon Drizzle Cake (1 Slice),Dessert,320.00,4.00,48.00,13.00,1.00,kaggle_daily_food_nutrition
+2370,Lemon Juice (1 Tbsp Dressing),Condiment,4.00,0.10,1.30,0.00,0.10,kaggle_daily_food_nutrition
+2379,Lemon Juice (1 Tsp In Soup),Condiment,1.00,0.00,0.40,0.00,0.00,kaggle_daily_food_nutrition
+2341,Lemon Slice (Garnish),Condiment,1.00,0.00,0.30,0.00,0.10,kaggle_daily_food_nutrition
+2106,Lemon Wedge (For Calamari),Condiment,3.00,0.10,1.00,0.00,0.30,kaggle_daily_food_nutrition
+1947,Lemonade (1 Cup),Beverage,99.00,0.10,26.00,0.00,0.10,kaggle_daily_food_nutrition
+1833,Lentil Soup (1 Can),Meal/Legume,230.00,15.00,35.00,3.00,12.00,kaggle_daily_food_nutrition
+2376,Lentil Soup (1 Cup Middle Eastern),Meal/Legume,200.00,10.00,30.00,5.00,10.00,kaggle_daily_food_nutrition
+2130,Lettuce (Romaine 2 Cups),Vegetable,16.00,1.00,3.00,0.30,2.00,kaggle_daily_food_nutrition
+2043,Lime (Juice Of 1),Condiment,11.00,0.20,3.70,0.00,0.40,kaggle_daily_food_nutrition
+2155,Lime Juice (1 Tbsp),Condiment,4.00,0.10,1.30,0.00,0.10,kaggle_daily_food_nutrition
+2174,Lime Wedge (Garnish),Condiment,3.00,0.10,1.00,0.00,0.30,kaggle_daily_food_nutrition
+2311,Limoncello (1.5 Oz Shot),Beverage,150.00,0.00,18.00,0.00,0.00,kaggle_daily_food_nutrition
+1924,Lobster (3Oz Steamed),Protein/Seafood,76.00,16.00,0.00,0.70,0.00,kaggle_daily_food_nutrition
+1981,Lobster Bisque (1 Cup),Meal/Seafood,250.00,8.00,12.00,18.00,1.00,kaggle_daily_food_nutrition
+2540,Lobster Roll (1 Sandwich),Meal/Seafood,450.00,22.00,40.00,22.00,2.00,kaggle_daily_food_nutrition
+2240,Lomo Saltado (1.5 Cups),Meal/Meat,500.00,35.00,45.00,22.00,5.00,kaggle_daily_food_nutrition
+2480,Lox And Cream Cheese Bagel,Meal/Processed,420.00,22.00,55.00,14.00,2.50,kaggle_daily_food_nutrition
+2592,Mac Salad (Hawaii Style 1/2 Cup),Meal/Pasta,280.00,5.00,22.00,20.00,1.50,kaggle_daily_food_nutrition
+1971,Macadamia Nuts (1 Oz),Nut,204.00,2.20,3.90,21.50,2.40,kaggle_daily_food_nutrition
+1889,Macaroni & Cheese (1 Cup),Meal/Pasta,350.00,10.00,40.00,17.00,2.00,kaggle_daily_food_nutrition
+2156,Macaroni Salad (1 Cup),Meal/Pasta,380.00,8.00,30.00,25.00,3.00,kaggle_daily_food_nutrition
+2031,Mackerel (3Oz Cooked),Protein/Fish,175.00,16.00,0.00,12.00,0.00,kaggle_daily_food_nutrition
+2221,Malva Pudding (1 Slice),Dessert,380.00,5.00,60.00,14.00,2.00,kaggle_daily_food_nutrition
+2381,Manakeesh (Za'Atar 1 Small),Meal/Vegetarian,300.00,7.00,45.00,10.00,4.00,kaggle_daily_food_nutrition
+1966,Mandarin Orange (1 Medium),Fruit,37.00,0.60,9.30,0.20,1.30,kaggle_daily_food_nutrition
+1929,Mango (1 Cup Slices),Fruit,99.00,1.40,24.70,0.60,2.60,kaggle_daily_food_nutrition
+2578,Mango Sticky Rice (1 Portion),Dessert,380.00,5.00,75.00,8.00,3.00,kaggle_daily_food_nutrition
+2051,Manicotti (2 Shells Cheese),Meal/Pasta,380.00,20.00,35.00,18.00,4.00,kaggle_daily_food_nutrition
+2133,Maple Syrup (1 Tbsp),Condiment,52.00,0.00,13.50,0.00,0.00,kaggle_daily_food_nutrition
+1863,Maple Syrup (2 Tbsp),Condiment,104.00,0.00,27.00,0.00,0.00,kaggle_daily_food_nutrition
+2602,Marie Rose Sauce (1 Tbsp),Condiment,70.00,0.20,3.50,6.00,0.00,kaggle_daily_food_nutrition
+2443,Marmite (1 Tsp),Condiment,22.00,4.60,2.90,0.10,0.40,kaggle_daily_food_nutrition
+2098,Marshmallow (1 Large),Dessert,23.00,0.10,5.80,0.00,0.00,kaggle_daily_food_nutrition
+2543,Maryland Crab Soup (1 Cup),Meal/Seafood,180.00,12.00,18.00,6.00,4.00,kaggle_daily_food_nutrition
+2116,Mashed Cauliflower (1 Cup),Vegetable,140.00,5.00,12.00,8.00,5.00,kaggle_daily_food_nutrition
+1872,Mashed Potatoes (1 Cup),Vegetable,230.00,4.00,35.00,8.00,3.00,kaggle_daily_food_nutrition
+2258,Mashed Potatoes (Side),Vegetable,150.00,3.00,25.00,4.00,2.00,kaggle_daily_food_nutrition
+2576,Massaman Curry (1 Cup),Meal/Meat,480.00,28.00,35.00,26.00,4.00,kaggle_daily_food_nutrition
+2563,Matcha Ice Cream (1 Scoop),Dessert,150.00,3.00,18.00,8.00,0.50,kaggle_daily_food_nutrition
+2068,Matcha Latte (12 Oz),Beverage,180.00,6.00,28.00,5.00,2.00,kaggle_daily_food_nutrition
+2250,Mate (1 Cup),Beverage,5.00,0.20,1.00,0.00,0.00,kaggle_daily_food_nutrition
+2104,Mayonnaise (1 Tbsp For Dipping),Condiment,90.00,0.10,0.10,10.00,0.00,kaggle_daily_food_nutrition
+1979,Mayonnaise (1 Tbsp),Condiment,90.00,0.10,0.10,10.00,0.00,kaggle_daily_food_nutrition
+2652,Mcbacon Mcdonald'S (1),Meal/Fast-Food,550.00,30.00,44.00,28.00,3.00,kaggle_daily_food_nutrition
+2668,Mccafé Café Latte Moyen Mcdonald'S,Beverage,130.00,7.00,13.00,4.50,0.00,kaggle_daily_food_nutrition
+2669,Mccafé Cappuccino Mcdonald'S,Beverage,100.00,6.00,9.00,3.50,0.00,kaggle_daily_food_nutrition
+2670,Mccafé Chocolate Chaud Mcdonald'S,Beverage,280.00,9.00,40.00,9.00,2.00,kaggle_daily_food_nutrition
+2645,Mcchicken Mcdonald'S (1),Meal/Fast-Food,395.00,16.00,40.00,18.00,2.00,kaggle_daily_food_nutrition
+2662,Mcflurry Caramel Mcdonald'S,Dessert/Fast-Food,360.00,7.00,58.00,12.00,0.00,kaggle_daily_food_nutrition
+2661,Mcflurry Oreo Mcdonald'S,Dessert/Fast-Food,340.00,8.00,54.00,11.00,0.50,kaggle_daily_food_nutrition
+2504,Mcmuffin (Egg And Cheese),Meal/Processed,310.00,17.00,30.00,13.00,2.00,kaggle_daily_food_nutrition
+2671,Mcmuffin Oeuf Et Fromage Mcdonald'S,Meal/Fast-Food,310.00,17.00,30.00,13.00,2.00,kaggle_daily_food_nutrition
+2672,Mcmuffin Saucisse Mcdonald'S,Meal/Fast-Food,430.00,19.00,30.00,27.00,2.00,kaggle_daily_food_nutrition
+2647,Mcwrap Poulet Croustillant Mcdonald'S,Meal/Fast-Food,540.00,28.00,55.00,22.00,4.00,kaggle_daily_food_nutrition
+2648,Mcwrap Poulet Grillé Mcdonald'S,Meal/Fast-Food,430.00,32.00,47.00,12.00,5.00,kaggle_daily_food_nutrition
+2548,Meatball Sub (6 Inch Italian),Meal/Processed,530.00,25.00,55.00,22.00,4.00,kaggle_daily_food_nutrition
+1920,Meatball Sub (6 Inch),Meal/Processed,580.00,28.00,55.00,27.00,6.00,kaggle_daily_food_nutrition
+2251,Media Luna (1 Pastry),Grain,190.00,4.00,25.00,8.00,1.00,kaggle_daily_food_nutrition
+2434,Medjool Date (1 Large),Fruit,66.00,0.40,18.00,0.00,1.60,kaggle_daily_food_nutrition
+1925,Melted Butter (For Lobster),Condiment,200.00,0.20,0.00,22.00,0.00,kaggle_daily_food_nutrition
+2457,Microwave Mac And Cheese (1 Pot),Meal/Processed,410.00,12.00,52.00,17.00,2.00,kaggle_daily_food_nutrition
+2170,Mignonette Sauce (1 Tbsp),Condiment,5.00,0.00,1.00,0.00,0.00,kaggle_daily_food_nutrition
+2536,Minestrone Soup (1 Cup),Meal/Vegetable,100.00,4.00,16.00,2.50,4.00,kaggle_daily_food_nutrition
+2369,Mint (1 Tbsp In Tabouli),Condiment,1.00,0.10,0.10,0.00,0.10,kaggle_daily_food_nutrition
+2189,Mint Chutney (1 Tbsp),Condiment,5.00,0.20,0.50,0.00,0.30,kaggle_daily_food_nutrition
+2388,Mint Tea (1 Cup),Beverage,2.00,0.10,0.50,0.00,0.00,kaggle_daily_food_nutrition
+2558,Miso Soup With Tofu (1 Cup),Meal/Vegetarian,80.00,5.00,6.00,3.00,1.00,kaggle_daily_food_nutrition
+1883,Mixed Nuts (1/4 Cup),Nut,200.00,6.00,8.00,18.00,3.00,kaggle_daily_food_nutrition
+1958,Mocha Latte (16Oz),Beverage,360.00,12.00,48.00,15.00,2.00,kaggle_daily_food_nutrition
+2562,Mochi Ice Cream (1 Piece),Dessert,110.00,1.50,17.00,4.00,0.50,kaggle_daily_food_nutrition
+2605,Monkfish (3Oz Pan Fried),Protein/Fish,95.00,18.00,0.00,2.00,0.00,kaggle_daily_food_nutrition
+2344,Mozzarella (1 Oz Melted),Dairy,80.00,6.00,1.00,6.00,0.00,kaggle_daily_food_nutrition
+2101,Mozzarella (1 Slice),Dairy,80.00,6.00,1.00,6.00,0.00,kaggle_daily_food_nutrition
+2334,Mozzarella (Filling 0.5 Oz),Dairy,40.00,3.00,0.50,3.00,0.00,kaggle_daily_food_nutrition
+2485,Muesli (1/2 Cup No Sugar),Grain,200.00,6.00,36.00,4.00,5.00,kaggle_daily_food_nutrition
+1908,Muffin (Blueberry 1 Large),Grain/Dessert,380.00,5.00,55.00,16.00,2.00,kaggle_daily_food_nutrition
+2490,Muffin (English Style 1),Grain,134.00,4.50,26.00,1.00,2.00,kaggle_daily_food_nutrition
+2667,Muffin Aux Pépites De Chocolat Mcdonald'S,Dessert/Fast-Food,380.00,6.00,54.00,16.00,2.00,kaggle_daily_food_nutrition
+1984,Mushroom (White 1 Cup Sliced),Vegetable,15.00,2.20,2.30,0.20,0.70,kaggle_daily_food_nutrition
+2465,Mushy Peas (1/2 Cup Side),Vegetable,95.00,6.00,17.00,1.00,5.00,kaggle_daily_food_nutrition
+2075,Mussels (3Oz Steamed),Protein/Seafood,146.00,20.00,6.00,4.00,0.00,kaggle_daily_food_nutrition
+1987,Naan Bread (1 Piece),Grain,260.00,8.00,45.00,5.00,2.00,kaggle_daily_food_nutrition
+2584,Nachos With Toppings (1 Plate),Meal/Processed,650.00,22.00,60.00,38.00,6.00,kaggle_daily_food_nutrition
+2299,Negroni (1 Drink),Beverage,190.00,0.00,15.00,0.00,0.00,kaggle_daily_food_nutrition
+2414,Nespresso Capsule (1 Shot),Beverage,5.00,0.30,0.70,0.10,0.00,kaggle_daily_food_nutrition
+2542,New England Fish Chowder,Meal/Seafood,280.00,18.00,22.00,12.00,2.00,kaggle_daily_food_nutrition
+2496,Nut Butter Toast (1 Slice),Meal/Grain,210.00,6.00,22.00,12.00,3.00,kaggle_daily_food_nutrition
+2179,Nutella (1 Tbsp),Condiment,100.00,1.50,11.00,6.00,1.00,kaggle_daily_food_nutrition
+2113,Nutritional Yeast (1 Tbsp),Condiment,20.00,3.00,2.00,0.00,1.00,kaggle_daily_food_nutrition
+2708,O'Tacos Cheesecake,Dessert/Fast-Food,350.00,7.00,42.00,17.00,1.00,kaggle_daily_food_nutrition
+2700,O'Tacos Frites (Portion),Snack/Fast-Food,233.00,3.00,33.00,11.00,3.00,kaggle_daily_food_nutrition
+2695,O'Tacos L Cordon Bleu (1 Tacos),Meal/Fast-Food,1120.00,47.00,127.00,45.00,8.00,kaggle_daily_food_nutrition
+2685,O'Tacos L Poulet (1 Tacos),Meal/Fast-Food,1100.00,50.00,125.00,42.00,8.00,kaggle_daily_food_nutrition
+2690,O'Tacos L Viande Hachee (1 Tacos),Meal/Fast-Food,1150.00,55.00,130.00,46.00,9.00,kaggle_daily_food_nutrition
+2694,O'Tacos M Cordon Bleu (1 Tacos),Meal/Fast-Food,870.00,36.00,98.00,35.00,6.00,kaggle_daily_food_nutrition
+2697,O'Tacos M Falafel (1 Tacos),Meal/Fast-Food,820.00,22.00,105.00,32.00,10.00,kaggle_daily_food_nutrition
+2684,O'Tacos M Poulet (1 Tacos),Meal/Fast-Food,850.00,38.00,95.00,33.00,6.00,kaggle_daily_food_nutrition
+2689,O'Tacos M Viande Hachee (1 Tacos),Meal/Fast-Food,890.00,42.00,100.00,36.00,7.00,kaggle_daily_food_nutrition
+2698,O'Tacos Matelas (1 Tacos),Meal/Fast-Food,1250.00,55.00,145.00,50.00,9.00,kaggle_daily_food_nutrition
+2707,O'Tacos Milkshake Nature,Beverage/Fast-Food,114.00,3.00,17.00,4.00,0.00,kaggle_daily_food_nutrition
+2702,O'Tacos Nuggets De Poulet X6,Snack/Fast-Food,260.00,14.00,18.00,15.00,2.00,kaggle_daily_food_nutrition
+2703,O'Tacos Onion Rings (Portion),Snack/Fast-Food,254.00,5.00,34.00,12.00,4.00,kaggle_daily_food_nutrition
+2693,O'Tacos S Cordon Bleu (1 Tacos),Meal/Fast-Food,660.00,28.00,77.00,26.00,5.00,kaggle_daily_food_nutrition
+2683,O'Tacos S Poulet (1 Tacos),Meal/Fast-Food,650.00,30.00,75.00,25.00,5.00,kaggle_daily_food_nutrition
+2688,O'Tacos S Viande Hachee (1 Tacos),Meal/Fast-Food,680.00,32.00,78.00,27.00,5.00,kaggle_daily_food_nutrition
+2705,O'Tacos Sauce Algerienne (Portion),Condiment/Fast-Food,456.00,1.00,18.00,42.00,0.00,kaggle_daily_food_nutrition
+2704,O'Tacos Sauce Fromagere (Portion),Condiment/Fast-Food,187.00,4.00,6.00,16.00,0.00,kaggle_daily_food_nutrition
+2706,O'Tacos Sauce Samourai (Portion),Condiment/Fast-Food,585.00,1.00,4.00,62.00,0.00,kaggle_daily_food_nutrition
+2701,O'Tacos Tenders De Poulet (Portion),Protein/Fast-Food,245.00,17.00,19.00,11.00,1.00,kaggle_daily_food_nutrition
+2699,O'Tacos Tortilla (1 Seule),Meal/Fast-Food,341.00,10.00,59.00,8.00,4.00,kaggle_daily_food_nutrition
+2696,O'Tacos Xl Cordon Bleu (1 Tacos),Meal/Fast-Food,1550.00,65.00,175.00,62.00,11.00,kaggle_daily_food_nutrition
+2686,O'Tacos Xl Poulet (1 Tacos),Meal/Fast-Food,1500.00,68.00,170.00,58.00,10.00,kaggle_daily_food_nutrition
+2691,O'Tacos Xl Viande Hachee (1 Tacos),Meal/Fast-Food,1600.00,75.00,180.00,63.00,12.00,kaggle_daily_food_nutrition
+2692,O'Tacos Xxl 3 Viandes (1 Tacos),Meal/Fast-Food,2100.00,100.00,235.00,85.00,15.00,kaggle_daily_food_nutrition
+2687,O'Tacos Xxl Poulet (1 Tacos),Meal/Fast-Food,1950.00,90.00,220.00,75.00,13.00,kaggle_daily_food_nutrition
+2476,Oat Cake (2 Small),Grain,140.00,3.50,20.00,5.50,2.50,kaggle_daily_food_nutrition
+1949,Oat Milk (1 Cup),Beverage/Dairy-Alt,120.00,3.00,16.00,5.00,2.00,kaggle_daily_food_nutrition
+1824,Oatmeal (1 Cup Cooked),Grain,160.00,6.00,28.00,3.00,4.00,kaggle_daily_food_nutrition
+2337,Olive (Garnish),Fruit,5.00,0.00,0.10,0.50,0.10,kaggle_daily_food_nutrition
+2371,Olive Oil (1 Tbsp Dressing),Condiment,120.00,0.00,0.00,14.00,0.00,kaggle_daily_food_nutrition
+2290,Olive Oil (1 Tbsp Drizzle),Condiment,120.00,0.00,0.00,14.00,0.00,kaggle_daily_food_nutrition
+2383,Olive Oil (1 Tbsp On Bread),Condiment,120.00,0.00,0.00,14.00,0.00,kaggle_daily_food_nutrition
+1999,Olive Oil (1 Tbsp),Condiment,120.00,0.00,0.00,14.00,0.00,kaggle_daily_food_nutrition
+2231,Olive Oil (1 Tsp Garnish),Condiment,40.00,0.00,0.00,4.50,0.00,kaggle_daily_food_nutrition
+2387,Olives (5 Side),Fruit,35.00,0.20,1.00,3.50,0.50,kaggle_daily_food_nutrition
+1961,Olives (Kalamata 5 Large),Fruit,35.00,0.20,1.00,3.50,0.50,kaggle_daily_food_nutrition
+2123,Onion (1/2 Cup Raw Chopped),Vegetable,32.00,0.90,7.50,0.10,1.40,kaggle_daily_food_nutrition
+2279,Onion (1/8 Minced In Sauce),Vegetable,5.00,0.10,1.20,0.00,0.20,kaggle_daily_food_nutrition
+2014,Onion Rings (6 Rings),Snack/Processed,280.00,4.00,30.00,16.00,3.00,kaggle_daily_food_nutrition
+2590,Onion Rings (Large Serving),Snack/Processed,400.00,6.00,45.00,22.00,4.00,kaggle_daily_food_nutrition
+2628,Onion Rings Bk (Portion),Snack/Fast-Food,350.00,5.00,40.00,20.00,3.00,kaggle_daily_food_nutrition
+2086,Onions (Sautéed 1/4 Cup),Vegetable,30.00,0.50,5.00,1.00,1.00,kaggle_daily_food_nutrition
+1836,Orange,Fruit,62.00,1.20,15.40,0.20,3.10,kaggle_daily_food_nutrition
+1878,Orange Juice (1 Cup),Beverage,112.00,1.70,25.80,0.50,0.70,kaggle_daily_food_nutrition
+2303,Orange Peel (Garnish),Condiment,1.00,0.00,0.20,0.00,0.10,kaggle_daily_food_nutrition
+2139,Orange Sauce (1/4 Cup For Duck),Condiment,90.00,0.50,22.00,0.00,0.50,kaggle_daily_food_nutrition
+2273,Orange Slice (Garnish),Fruit,5.00,0.10,1.00,0.00,0.20,kaggle_daily_food_nutrition
+2255,Oregano (1 Tsp),Condiment,3.00,0.10,0.70,0.00,0.20,kaggle_daily_food_nutrition
+2421,Oreo Cookies (3 Cookies),Dessert,160.00,2.00,25.00,7.00,1.00,kaggle_daily_food_nutrition
+2304,Osso Buco (1 Serving),Meal/Meat,550.00,45.00,15.00,30.00,4.00,kaggle_daily_food_nutrition
+2493,Overnight Oats (1 Jar),Meal/Grain,350.00,14.00,50.00,9.00,7.00,kaggle_daily_food_nutrition
+2169,Oyster (1 Medium Raw),Protein/Seafood,8.00,1.00,0.50,0.20,0.00,kaggle_daily_food_nutrition
+2575,Pad See Ew (1 Cup Noodles),Meal/Pasta,420.00,18.00,55.00,14.00,3.00,kaggle_daily_food_nutrition
+1931,Pad Thai (Chicken 1.5 Cups),Meal/Pasta,550.00,25.00,60.00,22.00,5.00,kaggle_daily_food_nutrition
+2225,Paella (1.5 Cups Seafood),Meal/Rice,550.00,30.00,70.00,18.00,6.00,kaggle_daily_food_nutrition
+2506,Pain Au Chocolat (1),Dessert,270.00,5.00,30.00,15.00,1.50,kaggle_daily_food_nutrition
+2488,Pancake (American 1 Medium),Grain,90.00,2.50,15.00,3.00,0.50,kaggle_daily_food_nutrition
+1862,Pancakes (2 Medium),Grain,180.00,5.00,30.00,5.00,1.00,kaggle_daily_food_nutrition
+2276,Pancetta (0.5 Oz In Sauce),Protein/Meat,45.00,1.50,0.00,4.50,0.00,kaggle_daily_food_nutrition
+2308,Panettone (1 Slice),Dessert,320.00,6.00,50.00,12.00,3.00,kaggle_daily_food_nutrition
+2190,Pani Puri (6 Pcs),Snack/Processed,200.00,4.00,35.00,5.00,3.00,kaggle_daily_food_nutrition
+2312,Panna Cotta (1 Serving),Dessert,300.00,4.00,25.00,20.00,0.00,kaggle_daily_food_nutrition
+2154,Papaya (1 Cup Cubes),Fruit,62.00,0.60,15.70,0.40,2.50,kaggle_daily_food_nutrition
+2281,Parmigiano-Reggiano (1 Tbsp),Dairy,22.00,2.00,0.20,1.50,0.00,kaggle_daily_food_nutrition
+2368,Parsley (1/4 Cup In Tabouli),Vegetable,5.00,0.30,1.00,0.10,0.50,kaggle_daily_food_nutrition
+2191,Passion Fruit (1 Fruit),Fruit,17.00,0.40,4.20,0.10,1.90,kaggle_daily_food_nutrition
+2147,Pasta Salad (1 Cup),Meal/Pasta,280.00,8.00,30.00,14.00,4.00,kaggle_daily_food_nutrition
+2202,Pate (Mushroom 2 Tbsp),Condiment,70.00,1.00,2.00,7.00,1.00,kaggle_daily_food_nutrition
+2537,Pea And Ham Soup (1 Cup),Meal/Legume,190.00,14.00,22.00,4.00,5.00,kaggle_daily_food_nutrition
+1897,Peanut Butter & Jelly Sandwich,Meal/Processed,390.00,12.00,50.00,17.00,5.00,kaggle_daily_food_nutrition
+2402,Peanut Butter (1 Tbsp),Nut,94.00,4.00,3.00,8.00,1.00,kaggle_daily_food_nutrition
+1856,Peanut Butter (2 Tbsp),Nut,190.00,7.00,8.00,16.00,2.00,kaggle_daily_food_nutrition
+2445,Peanut Butter Sandwich,Meal/Processed,340.00,12.00,38.00,17.00,4.00,kaggle_daily_food_nutrition
+2117,Peanut Sauce (2 Tbsp),Condiment,80.00,2.00,4.00,6.00,1.00,kaggle_daily_food_nutrition
+1881,Pear,Fruit,101.00,0.60,27.00,0.20,5.50,kaggle_daily_food_nutrition
+2534,Peas And Carrots (1/2 Cup),Vegetable,55.00,2.50,10.50,0.30,3.50,kaggle_daily_food_nutrition
+1955,Pecans (1 Oz),Nut,196.00,2.60,3.90,20.40,2.70,kaggle_daily_food_nutrition
+2266,Pecorino Cheese (1 Tbsp),Dairy,25.00,1.50,0.10,2.00,0.00,kaggle_daily_food_nutrition
+2325,Pecorino Romano (1/4 Cup),Dairy,110.00,7.50,1.00,8.50,0.00,kaggle_daily_food_nutrition
+2148,Pepperoncini (2 Peppers),Vegetable,10.00,0.50,2.00,0.00,1.00,kaggle_daily_food_nutrition
+2346,Pesto (1/4 Cup),Condiment,290.00,5.00,4.00,29.00,2.00,kaggle_daily_food_nutrition
+2048,Pesto Sauce (1/4 Cup),Condiment,260.00,5.00,4.00,26.00,2.00,kaggle_daily_food_nutrition
+2084,Philly Cheesesteak (6 Inch),Meal/Processed,500.00,25.00,40.00,28.00,3.00,kaggle_daily_food_nutrition
+2572,Pho Bo (Beef 1 Bowl Large),Meal/Soup,500.00,35.00,65.00,10.00,4.00,kaggle_daily_food_nutrition
+1980,Pickle (1 Spear Dill),Vegetable,5.00,0.20,1.00,0.10,0.30,kaggle_daily_food_nutrition
+2064,Pickle (1 Whole Dill),Vegetable,17.00,0.80,3.70,0.20,1.50,kaggle_daily_food_nutrition
+2396,Pickled Cucumber (1/4 Cup),Vegetable,10.00,0.50,2.00,0.00,1.00,kaggle_daily_food_nutrition
+2210,Pickled Radish (1/4 Cup),Vegetable,15.00,0.50,3.00,0.00,1.00,kaggle_daily_food_nutrition
+2362,Pickled Turnips (2 Tbsp),Vegetable,10.00,0.20,2.00,0.00,0.50,kaggle_daily_food_nutrition
+2073,Pico De Gallo (1/4 Cup),Condiment,15.00,0.50,3.00,0.00,1.00,kaggle_daily_food_nutrition
+2347,Pine Nuts (1 Tbsp In Pesto),Nut,95.00,2.00,2.00,10.00,0.50,kaggle_daily_food_nutrition
+2049,Pine Nuts (1 Tbsp),Nut,95.00,2.00,2.00,10.00,0.50,kaggle_daily_food_nutrition
+2373,Pine Nuts (1/2 Tbsp Filling),Nut,48.00,1.00,1.00,5.00,0.20,kaggle_daily_food_nutrition
+2320,Pine Nuts (1/2 Tbsp),Nut,48.00,1.00,1.00,5.00,0.20,kaggle_daily_food_nutrition
+2244,Pisco Sour (1 Drink),Beverage,250.00,1.00,25.00,0.00,0.00,kaggle_daily_food_nutrition
+2284,Pistachio (Garnish),Nut,10.00,0.40,0.50,0.80,0.20,kaggle_daily_food_nutrition
+1948,Pistachios (1 Oz Shelled),Nut,159.00,5.70,7.70,12.80,3.00,kaggle_daily_food_nutrition
+2359,Pita Bread (1 White),Grain,165.00,5.50,33.00,1.20,1.50,kaggle_daily_food_nutrition
+1870,Pita Bread (1 Whole Wheat),Grain,170.00,6.00,35.00,1.50,5.00,kaggle_daily_food_nutrition
+2093,Pita Bread (White 1 Large),Grain,220.00,7.00,45.00,2.00,2.00,kaggle_daily_food_nutrition
+2380,Pita Crisps (1 Oz),Snack/Processed,130.00,3.00,18.00,5.00,2.00,kaggle_daily_food_nutrition
+2451,Pita With Falafel (1 Wrap),Meal/Vegetarian,420.00,14.00,55.00,18.00,8.00,kaggle_daily_food_nutrition
+1844,Pizza (1 Slice Pepperoni),Meal/Processed,290.00,12.00,34.00,12.00,2.00,kaggle_daily_food_nutrition
+2261,Pizza (Margherita 1 Slice),Meal/Processed,250.00,12.00,30.00,10.00,3.00,kaggle_daily_food_nutrition
+2015,Poached Egg (1 Large),Protein,72.00,6.30,0.40,4.80,0.00,kaggle_daily_food_nutrition
+2297,Polenta (1 Cup Creamy),Meal/Grain,150.00,3.00,32.00,1.00,3.00,kaggle_daily_food_nutrition
+2317,Polenta (Grilled 1 Slice),Meal/Grain,120.00,2.50,25.00,1.00,2.00,kaggle_daily_food_nutrition
+2400,Pomegranate Molasses (1 Tsp),Condiment,15.00,0.00,4.00,0.00,0.00,kaggle_daily_food_nutrition
+2428,Popcorn (1 Cup Microwave),Grain,55.00,1.00,6.30,3.20,1.20,kaggle_daily_food_nutrition
+1887,Popcorn (3 Cups Air-Popped),Grain,93.00,3.00,18.60,1.10,3.60,kaggle_daily_food_nutrition
+2194,Pork Belly (1 Oz In Soup),Protein/Meat,145.00,3.00,0.00,15.00,0.00,kaggle_daily_food_nutrition
+2166,Pork Bun (1 Steamed),Meal/Processed,220.00,8.00,30.00,8.00,2.00,kaggle_daily_food_nutrition
+1871,Pork Chop (4Oz Grilled),Protein/Meat,220.00,30.00,0.00,10.00,0.00,kaggle_daily_food_nutrition
+2211,Pork Floss (1 Tbsp),Protein/Meat,50.00,4.00,3.00,2.00,0.00,kaggle_daily_food_nutrition
+2469,Pork Pie (1 Individual),Meal/Processed,480.00,14.00,30.00,34.00,2.00,kaggle_daily_food_nutrition
+2486,Porridge (1 Bowl With Water),Grain,130.00,5.00,22.00,2.50,3.00,kaggle_daily_food_nutrition
+2674,Porridge Mcdonald'S,Meal/Grain,290.00,9.00,55.00,4.50,5.00,kaggle_daily_food_nutrition
+2564,Pot Stickers (4 Pcs),Meal/Processed,200.00,8.00,24.00,8.00,2.00,kaggle_daily_food_nutrition
+2351,Potato (1/2 W/ Pasta),Vegetable,65.00,1.00,15.00,0.10,1.00,kaggle_daily_food_nutrition
+1910,Potato Chips (1 Oz),Snack/Processed,160.00,2.00,15.00,10.00,1.00,kaggle_daily_food_nutrition
+2036,Potato Leek Soup (1 Cup),Meal/Vegetable,180.00,4.00,25.00,7.00,3.00,kaggle_daily_food_nutrition
+1995,Potato Salad (1/2 Cup),Meal/Vegetable,180.00,2.00,19.00,11.00,2.00,kaggle_daily_food_nutrition
+2593,Potato Wedges (1 Portion),Vegetable/Processed,240.00,4.00,38.00,8.00,4.00,kaggle_daily_food_nutrition
+2180,Powdered Sugar (1 Tsp),Condiment,10.00,0.00,2.50,0.00,0.00,kaggle_daily_food_nutrition
+2601,Prawn Cocktail (1 Starter),Meal/Seafood,180.00,15.00,8.00,9.00,1.00,kaggle_daily_food_nutrition
+2145,Pretzel Bun (1 Medium),Grain,230.00,8.00,45.00,2.00,2.00,kaggle_daily_food_nutrition
+1875,Pretzels (1 Oz),Grain/Processed,110.00,3.00,23.00,1.00,1.00,kaggle_daily_food_nutrition
+2427,Pretzels (10 Small Twists),Grain,108.00,2.60,22.80,0.90,1.00,kaggle_daily_food_nutrition
+2474,Pringles (15 Chips),Snack/Processed,150.00,2.00,16.00,9.00,1.00,kaggle_daily_food_nutrition
+2315,Prosciutto (1 Slice Wrapper),Protein/Meat,35.00,4.00,0.00,2.50,0.00,kaggle_daily_food_nutrition
+2204,Prosciutto (1 Slice),Protein/Meat,35.00,4.00,0.00,2.50,0.00,kaggle_daily_food_nutrition
+2271,Prosecco (3 Oz),Beverage,70.00,0.00,2.00,0.00,0.00,kaggle_daily_food_nutrition
+1852,Protein Bar,Supplement/Processed,210.00,20.00,22.00,7.00,6.00,kaggle_daily_food_nutrition
+1831,Protein Shake (Whey),Supplement,120.00,24.00,3.00,1.00,1.00,kaggle_daily_food_nutrition
+2254,Provoleta (1 Oz Grilled Cheese),Dairy,100.00,7.00,1.00,8.00,0.00,kaggle_daily_food_nutrition
+2002,Provolone Cheese (1 Slice),Dairy,100.00,7.00,1.00,8.00,0.00,kaggle_daily_food_nutrition
+2433,Prunes (3 Prunes),Fruit,60.00,0.60,16.00,0.10,1.80,kaggle_daily_food_nutrition
+2203,Puff Pastry (1 Oz Wrapper),Grain,115.00,1.50,9.00,8.00,0.50,kaggle_daily_food_nutrition
+1970,Pulled Pork Sandwich,Meal/Meat,480.00,25.00,48.00,20.00,3.00,kaggle_daily_food_nutrition
+2437,Pumpkin Seeds (1 Oz Roasted),Nut,163.00,8.50,4.20,14.00,1.80,kaggle_daily_food_nutrition
+2650,Quarterpounder Mcdonald'S (1),Meal/Fast-Food,510.00,28.00,41.00,26.00,3.00,kaggle_daily_food_nutrition
+2134,Quesadilla (Cheese 1 Medium),Meal/Processed,400.00,18.00,35.00,22.00,3.00,kaggle_daily_food_nutrition
+1821,Quinoa (1 Cup Cooked),Grain,222.00,8.00,39.00,3.60,5.00,kaggle_daily_food_nutrition
+1946,Quinoa Salad (1 Cup),Meal/Vegetarian,260.00,9.00,32.00,12.00,6.00,kaggle_daily_food_nutrition
+2333,Ragù (Filling 1 Tbsp),Condiment,25.00,1.50,1.00,1.50,0.50,kaggle_daily_food_nutrition
+2606,Rainbow Trout (4Oz Baked),Protein/Fish,150.00,22.00,0.00,6.50,0.00,kaggle_daily_food_nutrition
+2321,Raisins (1 Tbsp),Fruit,27.00,0.30,7.00,0.00,0.30,kaggle_daily_food_nutrition
+1888,Raisins (1/4 Cup),Fruit,130.00,1.30,34.00,0.20,1.60,kaggle_daily_food_nutrition
+2185,Raita (2 Tbsp),Condiment/Dairy,30.00,1.00,2.00,2.00,0.50,kaggle_daily_food_nutrition
+1957,Ramen (Instant 1 Pack),Meal/Processed,380.00,9.00,53.00,14.00,2.00,kaggle_daily_food_nutrition
+2087,Raspberries (1 Cup),Fruit,64.00,1.50,14.70,0.80,8.00,kaggle_daily_food_nutrition
+2137,Red Cabbage (1 Cup Raw),Vegetable,22.00,1.10,5.20,0.10,1.60,kaggle_daily_food_nutrition
+2237,Red Onion (1/4 Cup In Ceviche),Vegetable,16.00,0.30,3.70,0.00,0.40,kaggle_daily_food_nutrition
+1944,Red Wine (5 Oz Glass),Beverage,125.00,0.10,3.80,0.00,0.00,kaggle_daily_food_nutrition
+1893,Refried Beans (1/2 Cup),Legume,115.00,7.00,19.00,1.00,6.00,kaggle_daily_food_nutrition
+1982,Reuben Sandwich,Meal/Processed,650.00,28.00,35.00,40.00,5.00,kaggle_daily_food_nutrition
+2293,Ribollita (1.5 Cups Soup),Meal/Soup,350.00,15.00,55.00,8.00,14.00,kaggle_daily_food_nutrition
+2390,Rice (1/4 Cup Filling),Grain,51.00,1.10,11.10,0.10,0.10,kaggle_daily_food_nutrition
+2416,Rice Cake (1 Plain),Grain,35.00,0.70,7.30,0.30,0.40,kaggle_daily_food_nutrition
+2475,Rice Crackers (7 Pcs),Grain/Processed,60.00,1.00,13.00,0.50,0.50,kaggle_daily_food_nutrition
+2429,Rice Krispie Treat (1 Bar),Dessert,115.00,1.00,22.00,3.00,0.00,kaggle_daily_food_nutrition
+1976,Rice Krispies (1.5 Cups),Grain,160.00,3.00,37.00,0.50,0.50,kaggle_daily_food_nutrition
+2518,Rice Pudding (1 Cup),Dessert,200.00,5.00,35.00,5.00,0.50,kaggle_daily_food_nutrition
+2424,Rich Tea Biscuit (3 Biscuits),Grain,135.00,2.50,22.50,4.50,0.50,kaggle_daily_food_nutrition
+2283,Ricotta (Filling 1 Oz),Dairy,49.00,3.20,0.80,3.80,0.00,kaggle_daily_food_nutrition
+2059,Ricotta Cheese (1/4 Cup),Dairy,85.00,5.50,2.50,6.00,0.00,kaggle_daily_food_nutrition
+1913,Risotto (Mushroom 1 Cup),Meal/Grain,250.00,7.00,35.00,9.00,3.00,kaggle_daily_food_nutrition
+2306,Risotto Alla Milanese (1 Cup),Meal/Rice,350.00,10.00,50.00,12.00,3.00,kaggle_daily_food_nutrition
+2529,Roast Beef (3 Slices),Protein/Meat,180.00,28.00,0.00,7.00,0.00,kaggle_daily_food_nutrition
+2530,Roast Chicken (1 Thigh And Leg),Protein/Meat,280.00,32.00,0.00,17.00,0.00,kaggle_daily_food_nutrition
+2532,Roasted Parsnips (4 Pieces),Vegetable,130.00,2.00,20.00,5.00,4.50,kaggle_daily_food_nutrition
+2107,Root Beer (1 Can),Beverage,150.00,0.00,40.00,0.00,0.00,kaggle_daily_food_nutrition
+2288,Rosemary (1 Tsp Topping),Condiment,1.00,0.00,0.20,0.00,0.10,kaggle_daily_food_nutrition
+2328,Rosemary (Garnish),Condiment,1.00,0.00,0.20,0.00,0.10,kaggle_daily_food_nutrition
+2579,Rotisserie Chicken (1/4 Bird),Protein/Meat,340.00,40.00,1.00,19.00,0.00,kaggle_daily_food_nutrition
+2035,Rye Bread (1 Slice),Grain,83.00,2.70,15.50,1.10,1.90,kaggle_daily_food_nutrition
+2120,Rye Crispbread (2 Slices),Grain,70.00,2.00,14.00,0.50,3.00,kaggle_daily_food_nutrition
+2096,S'More (1 Serving),Dessert,140.00,2.00,25.00,4.00,1.00,kaggle_daily_food_nutrition
+2307,Saffron (Pinch In Risotto),Condiment,1.00,0.00,0.10,0.00,0.00,kaggle_daily_food_nutrition
+2227,Saffron (Pinch),Condiment,1.00,0.00,0.10,0.00,0.00,kaggle_daily_food_nutrition
+2316,Sage (2 Leaves),Condiment,1.00,0.00,0.10,0.00,0.10,kaggle_daily_food_nutrition
+2331,Sage (In Beans),Condiment,1.00,0.00,0.10,0.00,0.10,kaggle_daily_food_nutrition
+2181,Sake (3 Oz),Beverage,117.00,0.40,3.80,0.00,0.00,kaggle_daily_food_nutrition
+2677,Salade César Poulet Grillé Mcdonald'S,Meal/Fast-Food,280.00,28.00,12.00,13.00,3.00,kaggle_daily_food_nutrition
+2001,Salami (3 Slices),Protein/Processed,110.00,6.00,1.00,9.00,0.00,kaggle_daily_food_nutrition
+1820,Salmon (4Oz Grilled),Protein/Fish,230.00,25.00,0.00,14.00,0.00,kaggle_daily_food_nutrition
+1854,Salsa (1/4 Cup),Vegetable,20.00,0.80,4.50,0.10,1.00,kaggle_daily_food_nutrition
+2136,Salsa (2 Tbsp),Condiment,10.00,0.50,2.00,0.00,0.50,kaggle_daily_food_nutrition
+2061,Salt (1/4 Tsp),Condiment,0.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2314,Saltimbocca (1 Serving),Meal/Meat,380.00,38.00,5.00,22.00,0.50,kaggle_daily_food_nutrition
+1928,Saltine Crackers (5 Crackers),Grain/Processed,60.00,1.00,10.00,1.50,0.50,kaggle_daily_food_nutrition
+2187,Samosa (1 Piece Vegetable),Snack/Processed,130.00,2.00,18.00,6.00,2.00,kaggle_daily_food_nutrition
+1935,Sashimi (Salmon 3 Pcs),Protein/Fish,120.00,18.00,0.00,5.00,0.00,kaggle_daily_food_nutrition
+2119,Sauerkraut (1/2 Cup),Vegetable,14.00,0.70,3.10,0.10,2.00,kaggle_daily_food_nutrition
+1983,Sauerkraut (1/4 Cup Side),Vegetable,7.00,0.30,1.50,0.00,1.00,kaggle_daily_food_nutrition
+1864,Sausage Link (1 Cooked),Protein/Meat,85.00,5.00,1.00,7.00,0.00,kaggle_daily_food_nutrition
+2470,Sausage Roll (1 Small),Meal/Processed,290.00,8.00,22.00,19.00,1.00,kaggle_daily_food_nutrition
+1912,Scallops (3Oz Seared),Protein/Seafood,95.00,17.00,5.00,1.00,0.00,kaggle_daily_food_nutrition
+2680,Schweppes Agrum Mcdonald'S,Beverage,160.00,0.00,40.00,0.00,0.00,kaggle_daily_food_nutrition
+2491,Scone (1 Plain),Grain,190.00,4.00,28.00,7.00,1.00,kaggle_daily_food_nutrition
+2468,Scotch Egg (1 Medium),Meal/Processed,300.00,17.00,10.00,22.00,1.00,kaggle_daily_food_nutrition
+1814,Scrambled Eggs (2 Large),Protein/Dairy,180.00,12.00,2.00,14.00,0.00,kaggle_daily_food_nutrition
+2604,Sea Bass Fillet (4Oz Grilled),Protein/Fish,140.00,24.00,0.00,4.50,0.00,kaggle_daily_food_nutrition
+2183,Sea Salt (Coarse 1/4 Tsp),Condiment,0.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+1937,Seaweed Salad (1/2 Cup),Vegetable,60.00,2.00,8.00,3.00,2.00,kaggle_daily_food_nutrition
+2114,Seitan (3Oz),Protein/Vegetarian,90.00,18.00,4.00,1.00,1.00,kaggle_daily_food_nutrition
+2197,Sesame Oil (1 Tsp),Condiment,40.00,0.00,0.00,4.50,0.00,kaggle_daily_food_nutrition
+2442,Sesame Seeds (1 Tbsp),Nut,52.00,1.60,2.10,4.50,1.10,kaggle_daily_food_nutrition
+2500,Shakshuka (2 Eggs In Sauce),Meal/Protein,280.00,16.00,18.00,16.00,4.00,kaggle_daily_food_nutrition
+2363,Shawarma (Chicken 1 Wrap),Meal/Processed,550.00,30.00,50.00,25.00,6.00,kaggle_daily_food_nutrition
+1940,Shepherd'S Pie (1 Serving),Meal/Meat,400.00,20.00,35.00,20.00,6.00,kaggle_daily_food_nutrition
+2393,Shish Tawook (2 Skewers),Meal/Meat,300.00,35.00,5.00,16.00,1.00,kaggle_daily_food_nutrition
+2516,Shortbread (2 Fingers),Dessert,180.00,2.00,21.00,10.00,0.50,kaggle_daily_food_nutrition
+2067,Shredded Cheese (Cheddar 1/4 Cup),Dairy,115.00,7.00,1.00,9.50,0.00,kaggle_daily_food_nutrition
+1861,Shrimp (3Oz Steamed),Protein/Fish,84.00,20.00,0.20,0.20,0.00,kaggle_daily_food_nutrition
+2164,Shrimp Cocktail (4 Large Shrimp),Protein/Seafood,60.00,10.00,1.00,1.00,0.00,kaggle_daily_food_nutrition
+2004,Shrimp Scampi (1 Cup),Meal/Seafood,380.00,22.00,40.00,15.00,3.00,kaggle_daily_food_nutrition
+1830,Side Salad (Light Dressing),Vegetable,70.00,2.00,8.00,4.00,3.00,kaggle_daily_food_nutrition
+2193,Silken Tofu (3Oz In Soup),Protein/Vegetarian,45.00,5.00,2.00,2.50,0.50,kaggle_daily_food_nutrition
+2356,Simple Syrup (1/2 Oz),Condiment,30.00,0.00,8.00,0.00,0.00,kaggle_daily_food_nutrition
+2408,Skim Milk (1 Cup),Dairy,83.00,8.00,12.00,0.20,0.00,kaggle_daily_food_nutrition
+2253,Skirt Steak (4Oz Grilled),Protein/Meat,240.00,26.00,0.00,15.00,0.00,kaggle_daily_food_nutrition
+2463,Sloppy Joe (1 Sandwich),Meal/Processed,410.00,20.00,38.00,18.00,4.00,kaggle_daily_food_nutrition
+2599,Smoked Haddock (4Oz),Protein/Fish,100.00,20.00,0.00,1.50,0.00,kaggle_daily_food_nutrition
+1865,Smoothie (Fruit & Yogurt),Beverage/Meal,280.00,12.00,55.00,3.00,7.00,kaggle_daily_food_nutrition
+2495,Smoothie Bowl (Berry),Meal/Fruit,320.00,8.00,55.00,8.00,7.00,kaggle_daily_food_nutrition
+1874,Soda (1 Can Coke),Beverage,140.00,0.00,39.00,0.00,0.00,kaggle_daily_food_nutrition
+2135,Sour Cream (1 Tbsp),Condiment/Dairy,30.00,0.40,0.60,2.90,0.00,kaggle_daily_food_nutrition
+2066,Sour Cream (2 Tbsp),Condiment/Dairy,60.00,0.80,1.30,5.80,0.00,kaggle_daily_food_nutrition
+2583,Sour Cream Topping (2 Tbsp),Condiment,60.00,0.80,1.30,5.80,0.00,kaggle_daily_food_nutrition
+1985,Soy Milk (Original 1 Cup),Beverage/Dairy-Alt,110.00,8.00,9.00,4.50,2.00,kaggle_daily_food_nutrition
+2168,Soy Sauce (1 Tbsp For Dipping),Condiment,9.00,1.00,1.00,0.00,0.10,kaggle_daily_food_nutrition
+2242,Soy Sauce (1 Tbsp In Stir-Fry),Condiment,9.00,1.00,1.00,0.00,0.10,kaggle_daily_food_nutrition
+2081,Soyrizo (2 Oz),Protein/Vegetarian,140.00,10.00,6.00,9.00,3.00,kaggle_daily_food_nutrition
+2008,Spaghetti (Side),Grain,100.00,3.50,21.00,0.50,1.00,kaggle_daily_food_nutrition
+1829,Spaghetti Bolognese,Meal/Pasta,460.00,20.00,55.00,18.00,6.00,kaggle_daily_food_nutrition
+2454,Spaghetti Hoops On Toast,Meal/Processed,210.00,7.00,38.00,2.00,4.00,kaggle_daily_food_nutrition
+2146,Spicy Mustard (1 Tbsp),Condiment,10.00,0.50,1.00,0.50,0.50,kaggle_daily_food_nutrition
+2019,Spinach Artichoke Dip (1/4 Cup),Snack/Processed,160.00,5.00,6.00,14.00,2.00,kaggle_daily_food_nutrition
+2056,Split Pea Soup (1 Cup),Meal/Legume,180.00,11.00,30.00,2.00,10.00,kaggle_daily_food_nutrition
+2571,Spring Roll (Meat 1 Roll),Snack/Processed,120.00,4.00,14.00,5.50,1.00,kaggle_daily_food_nutrition
+1932,Spring Roll (Veg 2 Rolls),Snack/Processed,180.00,4.00,25.00,7.00,3.00,kaggle_daily_food_nutrition
+2177,Sriracha (1 Tsp),Condiment,5.00,0.10,1.00,0.10,0.10,kaggle_daily_food_nutrition
+2296,Stale Bread (1/2 Cup In Soup),Grain,80.00,3.00,15.00,1.00,1.00,kaggle_daily_food_nutrition
+1822,Steamed Broccoli (1 Cup),Vegetable,55.00,3.70,11.20,0.60,5.10,kaggle_daily_food_nutrition
+2525,Sticky Toffee Pudding (1 Serving),Dessert,420.00,5.00,60.00,18.00,2.00,kaggle_daily_food_nutrition
+1993,String Cheese (1 Stick),Dairy,80.00,6.00,1.00,6.00,0.00,kaggle_daily_food_nutrition
+2389,Stuffed Grape Leaves (3 Pcs),Meal/Vegetarian,150.00,3.00,20.00,7.00,3.00,kaggle_daily_food_nutrition
+2531,Stuffing (2 Tbsp),Grain,90.00,2.00,12.00,4.00,1.00,kaggle_daily_food_nutrition
+1977,Sugar (1 Tsp For Cereal),Condiment,16.00,0.00,4.00,0.00,0.00,kaggle_daily_food_nutrition
+2399,Sumac (1/2 Tsp Dressing),Condiment,5.00,0.10,1.00,0.20,0.50,kaggle_daily_food_nutrition
+2663,Sundae Caramel Mcdonald'S,Dessert/Fast-Food,320.00,6.00,52.00,9.00,0.00,kaggle_daily_food_nutrition
+2664,Sundae Chocolat Mcdonald'S,Dessert/Fast-Food,330.00,7.00,52.00,10.00,1.00,kaggle_daily_food_nutrition
+2438,Sunflower Seeds (1 Oz),Nut,165.00,5.80,6.80,14.40,3.00,kaggle_daily_food_nutrition
+2269,Supplì (1 Piece Fried Rice Ball),Snack/Processed,200.00,8.00,25.00,8.00,2.00,kaggle_daily_food_nutrition
+2560,Sushi Roll (California 6 Pcs),Meal/Fish,250.00,9.00,38.00,7.00,2.00,kaggle_daily_food_nutrition
+2561,Sushi Roll (Spicy Tuna 6 Pcs),Meal/Fish,290.00,14.00,34.00,11.00,2.00,kaggle_daily_food_nutrition
+1991,Sweet & Sour Chicken (1 Cup),Meal/Processed,380.00,18.00,45.00,15.00,3.00,kaggle_daily_food_nutrition
+2011,Sweet Chili Sauce (2 Tbsp),Condiment,70.00,0.00,17.00,0.00,0.50,kaggle_daily_food_nutrition
+1886,Sweet Potato (1 Medium Baked),Vegetable,103.00,2.30,23.60,0.20,3.80,kaggle_daily_food_nutrition
+2589,Sweet Potato Fries (1 Portion),Vegetable/Processed,220.00,3.00,36.00,8.00,4.50,kaggle_daily_food_nutrition
+2091,Sweet Tea (16 Oz),Beverage,180.00,0.00,46.00,0.00,0.00,kaggle_daily_food_nutrition
+2302,Sweet Vermouth (1 Oz),Beverage,40.00,0.00,5.00,0.00,0.00,kaggle_daily_food_nutrition
+2034,Swiss Cheese (1 Slice),Dairy,106.00,7.60,1.00,8.00,0.00,kaggle_daily_food_nutrition
+1953,T-Bone Steak (6Oz),Protein/Meat,460.00,38.00,0.00,33.00,0.00,kaggle_daily_food_nutrition
+2366,Tabouli (1/2 Cup),Meal/Vegetarian,120.00,3.00,15.00,6.00,4.00,kaggle_daily_food_nutrition
+2274,Tagliatelle Al Ragù (Bolognese),Meal/Pasta,550.00,28.00,65.00,20.00,7.00,kaggle_daily_food_nutrition
+2128,Tahini (1 Tbsp),Condiment,89.00,2.60,3.20,8.00,1.40,kaggle_daily_food_nutrition
+2361,Tahini Sauce (1 Tbsp),Condiment,30.00,1.00,1.50,2.50,0.50,kaggle_daily_food_nutrition
+2188,Tamarind Chutney (1 Tbsp),Condiment,20.00,0.10,5.00,0.00,0.50,kaggle_daily_food_nutrition
+2224,Tapioca Pearls (1/4 Cup Boba),Condiment,100.00,0.00,25.00,0.00,0.00,kaggle_daily_food_nutrition
+2466,Tartar Sauce (1 Tbsp),Condiment,70.00,0.20,2.00,7.00,0.10,kaggle_daily_food_nutrition
+1973,Tartar Sauce (2 Tbsp),Condiment,60.00,0.20,2.00,5.50,0.10,kaggle_daily_food_nutrition
+2711,Tasty Crousty Large (1 Barquette),Meal/Fast-Food,1500.00,60.00,170.00,65.00,6.00,kaggle_daily_food_nutrition
+2710,Tasty Crousty Medium (1 Barquette),Meal/Fast-Food,1200.00,48.00,135.00,52.00,5.00,kaggle_daily_food_nutrition
+2714,Tasty Crousty Riz (Portion),Grain/Fast-Food,200.00,4.00,44.00,0.50,0.50,kaggle_daily_food_nutrition
+2715,Tasty Crousty Sauce Maison (Portion),Condiment/Fast-Food,220.00,2.00,8.00,20.00,0.00,kaggle_daily_food_nutrition
+2709,Tasty Crousty Small (1 Barquette),Meal/Fast-Food,900.00,35.00,100.00,40.00,4.00,kaggle_daily_food_nutrition
+2713,Tasty Crousty Tenders (Portion),Protein/Fast-Food,280.00,20.00,22.00,12.00,1.50,kaggle_daily_food_nutrition
+2712,Tasty Crousty Xl (1 Barquette),Meal/Fast-Food,1900.00,78.00,215.00,82.00,8.00,kaggle_daily_food_nutrition
+2118,Tempeh (3Oz),Protein/Vegetarian,160.00,16.00,8.00,9.00,5.00,kaggle_daily_food_nutrition
+2173,Thai Basil (Garnish),Condiment,1.00,0.10,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2153,Thai Iced Tea (1 Glass),Beverage,250.00,3.00,35.00,12.00,0.00,kaggle_daily_food_nutrition
+2603,Tiger Prawn (4 Grilled),Protein/Seafood,85.00,18.00,0.00,1.50,0.00,kaggle_daily_food_nutrition
+1884,Tilapia (4Oz Baked),Protein/Fish,110.00,22.00,0.00,2.50,0.00,kaggle_daily_food_nutrition
+2598,Tinned Mackerel In Tomato,Protein/Fish,200.00,20.00,4.00,12.00,0.00,kaggle_daily_food_nutrition
+2597,Tinned Sardines (1 Tin In Oil),Protein/Fish,190.00,23.00,0.00,11.00,0.00,kaggle_daily_food_nutrition
+2596,Tinned Tuna In Water (1 Can),Protein/Fish,100.00,22.00,0.00,1.00,0.00,kaggle_daily_food_nutrition
+2005,Tiramisu (1 Slice),Dessert,450.00,7.00,42.00,28.00,2.00,kaggle_daily_food_nutrition
+2492,Toast With Marmite,Meal/Processed,110.00,4.00,20.00,1.50,1.50,kaggle_daily_food_nutrition
+1866,Tofu (4Oz Firm),Protein/Vegetarian,90.00,10.00,3.00,5.00,2.00,kaggle_daily_food_nutrition
+2111,Tofu Scramble,Meal/Vegetarian,250.00,20.00,8.00,16.00,4.00,kaggle_daily_food_nutrition
+1835,Tofu Stir-Fry,Meal/Vegetarian,400.00,18.00,30.00,22.00,7.00,kaggle_daily_food_nutrition
+2577,Tom Yum Soup (1 Bowl),Meal/Soup,120.00,10.00,8.00,4.00,2.00,kaggle_daily_food_nutrition
+2028,Tomato (1 Medium Sliced),Vegetable,22.00,1.10,4.80,0.20,1.50,kaggle_daily_food_nutrition
+2386,Tomato (1/4 Cup Side),Vegetable,8.00,0.30,1.80,0.10,0.50,kaggle_daily_food_nutrition
+2343,Tomato Sauce (1/2 Cup),Condiment,40.00,1.50,7.00,1.00,2.00,kaggle_daily_food_nutrition
+1890,Tomato Soup (1 Can),Meal/Vegetable,170.00,4.00,25.00,6.00,4.00,kaggle_daily_food_nutrition
+2557,Tonkatsu (1 Pork Cutlet),Meal/Meat,420.00,30.00,22.00,24.00,2.00,kaggle_daily_food_nutrition
+2020,Tortilla Chips (1 Oz),Snack/Processed,140.00,2.00,19.00,7.00,2.00,kaggle_daily_food_nutrition
+2013,Trail Mix (1/4 Cup),Snack/Processed,190.00,5.00,20.00,12.00,3.00,kaggle_daily_food_nutrition
+2522,Trifle (1 Small Pot),Dessert,280.00,5.00,38.00,12.00,1.00,kaggle_daily_food_nutrition
+2349,Trofie Pasta (1 Cup Cooked),Grain,210.00,7.00,43.00,1.00,2.00,kaggle_daily_food_nutrition
+2555,Tteokbokki (1 Cup Rice Cakes),Meal/Grain,300.00,5.00,55.00,6.00,2.00,kaggle_daily_food_nutrition
+1978,Tuna (Canned 3Oz In Water),Protein/Fish,90.00,20.00,0.00,1.00,0.00,kaggle_daily_food_nutrition
+2070,Tuna Melt,Meal/Processed,450.00,25.00,32.00,25.00,3.00,kaggle_daily_food_nutrition
+1839,Tuna Salad (1/2 Cup),Meal/Fish,190.00,19.00,2.00,12.00,1.00,kaggle_daily_food_nutrition
+2339,Tuna Sauce (2 Tbsp),Condiment,100.00,4.00,1.00,9.00,0.00,kaggle_daily_food_nutrition
+1917,Turkey Bacon (2 Slices),Protein/Meat,70.00,6.00,1.00,5.00,0.00,kaggle_daily_food_nutrition
+1994,Turkey Burger (1 Patty),Protein/Meat,160.00,22.00,2.00,8.00,0.00,kaggle_daily_food_nutrition
+2065,Turkey Chili (1 Cup),Meal/Meat,250.00,22.00,25.00,7.00,8.00,kaggle_daily_food_nutrition
+1827,Turkey Sandwich (On Wheat),Meal/Processed,340.00,22.00,34.00,12.00,5.00,kaggle_daily_food_nutrition
+2132,Turkey Sausage (1 Patty),Protein/Meat,70.00,9.00,1.00,4.00,0.00,kaggle_daily_food_nutrition
+2391,Turkish Coffee (1 Small Cup),Beverage,5.00,0.20,0.50,0.00,0.00,kaggle_daily_food_nutrition
+2112,Turmeric (1 Tsp),Condiment,9.00,0.30,1.90,0.10,0.70,kaggle_daily_food_nutrition
+1911,Tzatziki Sauce (2 Tbsp),Condiment/Dairy,30.00,1.50,2.00,2.00,0.00,kaggle_daily_food_nutrition
+2007,Veal Parmesan (1 Serving),Meal/Meat,550.00,40.00,30.00,30.00,4.00,kaggle_daily_food_nutrition
+2444,Vegemite (1 Tsp),Condiment,18.00,3.80,2.40,0.00,0.40,kaggle_daily_food_nutrition
+2115,Vegetable Broth (1 Cup),Beverage,15.00,1.00,3.00,0.00,1.00,kaggle_daily_food_nutrition
+1927,Vegetable Soup (1 Can),Meal/Vegetable,140.00,4.00,22.00,4.00,6.00,kaggle_daily_food_nutrition
+1905,Veggie Burger (1 Patty),Protein/Vegetarian,120.00,11.00,10.00,4.00,5.00,kaggle_daily_food_nutrition
+2040,Veggie Straws (1 Oz),Snack/Processed,130.00,1.00,17.00,7.00,1.00,kaggle_daily_food_nutrition
+2546,Veggie Sub (6 Inch),Meal/Vegetarian,370.00,12.00,60.00,8.00,6.00,kaggle_daily_food_nutrition
+2512,Victoria Sponge (1 Slice),Dessert,370.00,5.00,50.00,17.00,1.00,kaggle_daily_food_nutrition
+2467,Vinegar (1 Tsp On Chips),Condiment,1.00,0.00,0.10,0.00,0.00,kaggle_daily_food_nutrition
+2338,Vitello Tonnato (1 Serving),Meal/Meat,380.00,35.00,3.00,25.00,0.50,kaggle_daily_food_nutrition
+2353,Vodka (1.5 Oz),Beverage,97.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+1989,Vodka Soda (1 Drink),Beverage,100.00,0.00,0.00,0.00,0.00,kaggle_daily_food_nutrition
+2489,Waffle (Belgian 1),Grain,220.00,6.00,30.00,9.00,1.50,kaggle_daily_food_nutrition
+2323,Waffle Cone (1 Small),Grain,70.00,1.00,13.00,1.50,0.50,kaggle_daily_food_nutrition
+1880,Waffles (2 Homemade),Grain,220.00,6.00,28.00,9.00,1.50,kaggle_daily_food_nutrition
+2216,Walnuts (1 Tbsp Chopped),Nut,46.00,1.10,1.00,4.60,0.50,kaggle_daily_food_nutrition
+1936,Wasabi (1 Tsp),Condiment,10.00,0.10,2.20,0.10,0.30,kaggle_daily_food_nutrition
+2038,Water Cracker (5 Crackers),Grain/Processed,70.00,1.50,12.00,1.50,0.50,kaggle_daily_food_nutrition
+1895,Watermelon (1 Cup Diced),Fruit,46.00,0.90,11.50,0.20,0.60,kaggle_daily_food_nutrition
+2126,Whiskey (1.5 Oz Shot),Beverage,105.00,0.00,0.10,0.00,0.00,kaggle_daily_food_nutrition
+2329,White Beans (Tuscan Style 1/2 Cup),Legume,150.00,8.00,20.00,4.00,7.00,kaggle_daily_food_nutrition
+1903,White Bread (1 Slice),Grain,70.00,2.00,13.00,1.00,0.60,kaggle_daily_food_nutrition
+1834,White Rice (1 Cup Cooked),Grain,204.00,4.20,44.50,0.40,0.60,kaggle_daily_food_nutrition
+2410,White Sugar (1 Tsp),Condiment,16.00,0.00,4.20,0.00,0.00,kaggle_daily_food_nutrition
+2012,White Wine (5 Oz Glass),Beverage,121.00,0.10,3.80,0.00,0.00,kaggle_daily_food_nutrition
+2076,White Wine Sauce (1/4 Cup),Condiment,80.00,1.00,4.00,6.00,0.50,kaggle_daily_food_nutrition
+2407,Whole Milk (1 Cup),Dairy,149.00,8.00,12.00,8.00,0.00,kaggle_daily_food_nutrition
+1815,Whole Wheat Toast (1 Slice),Grain,80.00,4.00,14.00,1.00,2.00,kaggle_daily_food_nutrition
+2608,Whopper Bk (1 Burger),Meal/Fast-Food,657.00,31.00,44.00,40.00,3.00,kaggle_daily_food_nutrition
+2609,Whopper Double Bk (1 Burger),Meal/Fast-Food,840.00,47.00,44.00,51.00,3.00,kaggle_daily_food_nutrition
+2610,Whopper Triple Bk (1 Burger),Meal/Fast-Food,1124.00,63.00,51.00,63.00,3.00,kaggle_daily_food_nutrition
+2140,Wild Rice (1 Cup Cooked),Grain,166.00,6.50,35.00,0.60,3.00,kaggle_daily_food_nutrition
+2565,Wonton Soup (1 Bowl),Meal/Processed,200.00,12.00,22.00,6.00,1.00,kaggle_daily_food_nutrition
+2219,Yellow Rice (1 Cup),Grain,230.00,4.00,50.00,1.00,2.00,kaggle_daily_food_nutrition
+2528,Yorkshire Pudding (1 Large),Grain,130.00,5.00,15.00,6.00,0.50,kaggle_daily_food_nutrition
+2382,Za'Atar (1 Tbsp),Condiment,40.00,1.00,3.00,3.00,1.50,kaggle_daily_food_nutrition
+2510,Zucchini Bread (1 Slice),Grain,200.00,3.00,29.00,8.00,1.50,kaggle_daily_food_nutrition

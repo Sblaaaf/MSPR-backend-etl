@@ -1,0 +1,67 @@
+# =====================================================
+# HealthAI Coach — Docker Compose
+# Lance PostgreSQL + pgAdmin + le pipeline ETL
+# Usage : docker compose up -d
+# =====================================================
+
+services:
+
+  # --- Base de données PostgreSQL ---
+  db:
+    image: postgres:16-alpine
+    container_name: healthai_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB:       ${DB_NAME:-healthai}
+      POSTGRES_USER:     ${DB_USER:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./healthai_schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres} -d ${DB_NAME:-healthai}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # --- Interface pgAdmin (optionnel) ---
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: healthai_pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL:    admin@healthai.local
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "5050:80"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  # --- Pipeline ETL ---
+  etl:
+    image: python:3.12-slim
+    container_name: healthai_etl
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST:     db
+      DB_PORT:     5432
+      DB_NAME:     ${DB_NAME:-healthai}
+      DB_USER:     ${DB_USER:-postgres}
+      DB_PASSWORD: ${DB_PASSWORD:-postgres}
+      DATA_DIR:    /app/data
+    volumes:
+      - ./etl_pipeline.py:/app/etl_pipeline.py
+      - ./data:/app/data
+      - ./logs:/app/logs
+    working_dir: /app
+    command: >
+      sh -c "pip install --quiet pandas sqlalchemy psycopg2-binary openpyxl
+             && python etl_pipeline.py"
+
+volumes:
+  postgres_data:
