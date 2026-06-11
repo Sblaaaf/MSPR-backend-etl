@@ -8,7 +8,6 @@ from pathlib import Path
 from typing import Any
 
 from fastapi import APIRouter, BackgroundTasks, File, Form, HTTPException, Request, UploadFile
-from fastapi.responses import JSONResponse
 from sqlalchemy import create_engine, text
 from sqlalchemy.exc import SQLAlchemyError
 

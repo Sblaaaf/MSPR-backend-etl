@@ -26,7 +26,6 @@ import json
 import uuid
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Optional
 
 import pandas as pd
 from sqlalchemy import create_engine, text

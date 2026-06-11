@@ -7,7 +7,6 @@ from pathlib import Path
 from unittest.mock import MagicMock, patch
 from datetime import datetime
 
-import pytest
 from fastapi.testclient import TestClient
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -44,7 +43,7 @@ def test_health():
 def test_etl_run_starts_pipeline(monkeypatch):
     monkeypatch.setattr("app.routes.get_run_en_cours", lambda: False)
 
-    with patch("app.routes.run_pipeline") as mock_run:
+    with patch("app.routes.run_pipeline"):
         resp = client.post("/etl/run")
 
     assert resp.status_code == 200
@@ -166,7 +165,7 @@ def test_datasets_list(monkeypatch, tmp_path):
 
 
 def test_datasets_upload_csv(monkeypatch, tmp_path):
-    with patch("app.routes.DATA_DIR", tmp_path):
+    with patch("app.routes.DATA_DIR", tmp_path), patch("app.routes.run_pipeline"):
         resp = client.post(
             "/datasets/upload",
             files={"file": ("test.csv", b"col1,col2\n1,2\n", "text/csv")},

@@ -7,3 +7,7 @@ openpyxl
 apscheduler
 python-multipart
 kaggle
+pytest
+pytest-asyncio
+httpx
+pyctuator
