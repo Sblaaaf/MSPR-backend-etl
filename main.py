@@ -6,7 +6,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.cron import CronTrigger
-from pyctuator.pyctuator import Pyctuator
+from prometheus_fastapi_instrumentator import Instrumentator
 
 from app.routes import router
 from etl_pipeline import run_pipeline
@@ -64,10 +64,5 @@ app.add_middleware(
 
 app.include_router(router)
 
-Pyctuator(
-    app,
-    "HealthAI ETL Service",
-    app_url="http://localhost:8002",
-    pyctuator_endpoint_url="http://localhost:8002/pyctuator",
-    registration_url=None,
-)
+# Expose Prometheus metrics on /metrics (scraped by Prometheus, visualised in Grafana).
+Instrumentator().instrument(app).expose(app, endpoint="/metrics", include_in_schema=False)

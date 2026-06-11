@@ -10,4 +10,4 @@ kaggle
 pytest
 pytest-asyncio
 httpx
-pyctuator
+prometheus-fastapi-instrumentator
